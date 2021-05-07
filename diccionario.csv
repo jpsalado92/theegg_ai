@@ -1,0 +1,28 @@
+﻿id_tarea;término;def_término
+11;turing;"Alan Turing fue un matemático considerado hoy en día como uno de los padres de la computación y precursor de la informática moderna. Es conocido por crear el concepto de ""máquina de turing"" que permite juzgar si la inteligencia de una máquina es equiparable a la de un ser humano."
+11;programación;Capacidad de gestionar tareas en el tiempo de manera sistemática. En el argot informático, hace refencia a la acción de escribir código en un lenguaje diseñado para que un ordenador ejecute una serie de instrucciones.
+11;inteligencia-artificial;Es la capacidad de una máquina de realizar tareas similares a las de un ser humano.
+12;transistor;Es un dispositivo electrónico capaz de regular el paso de corriente en base a un impulso externo.
+12;ley-de-moore;Ley que afirma que la cantidad de transistores que componen un microprocesador se duplica cada dos años.
+12;puertas-lógicas;Son dispositios electrónicos con lógica booleana integrada.
+13;periférico;Componentes externos de un ordenador como el teclado, el ratón y el monitor.
+13;arquitectura-von-neumann;Arquitectura de computadoras descrita en 1945 por el matemático y físico John Von Neumann. Los ordenadores que siguen esta arquitectura, almacenan los datos y las instrucciones del programa en la misma memoria.
+13;arquitectura-harvard;Arquitectura de computadoras usada en los años 50 por IBM. Los ordenadores que siguen esta arquitectura, almacenan los datos y las instrucciones del programa en memorias distintas.
+13;sistema-operativo;Conjunto de instrucciones que gestionan los recursos físicos y virtuales de un ordenador.
+13;software;Se refiere a conjuntos de instrucciones con un mismo propósito ubicados en un dispositivo de almacenamiento o memoria.
+13;hardware;Conjunto de componentes físicos que forman parte de un ordenador.
+13;raspberry-pi;Es un hardware popular por tener un precio muy competitivo y servir como un mini ordenador con grandes opciones de conectividad.
+13;arduino;Es un hardware popular por tener un precio muy competitivo y servir como un mini ordenador con grandes opciones de procesamiento de señales tanto analógicas como digitales.
+14;compilador;Software que traduce lenguaje de alto nivel en lenguaje máquina o uno intermedio.
+14;intérprete;Programa informático capaz de entender y procesar código generalmente de alto nivel.
+14;lenguaje-de-programación;Abstracción del lenguaje que permite gestionar los recursos que ofrece un ordenador.
+14;editor-de-código;Programa facilita la escritura de código.
+14;lenguaje-de-alto-nivel;Lenguaje de programación que permite la escritura de código con lógica y palabras aproximadas al lenguaje humano.
+14;lenguaje-de-máquina;Lenguaje compuesto por series de señales binarias procesables directamente por los componentes de un ordenador.
+15;python;Popular lenguaje de programación de alto nivel conocido por su gran abanico de librerías, como por ejemplo, las orientadas a IA.
+15;R;Popular lenguaje de programación de alto nivel orientado a investigación con fines estadísticos.
+15;Lisp;Uno de los primeros lenguajes de programación de alto nivel, conocido por basarse en el procesamiento de listas.
+15;Java;Popular lenguaje de programación de alto nivel conocido por su capacidad de ser integrado en distintas plataformas mediante la Java Virtual Machine.
+15;lenguaje-de-bajo-nivel;Lenguaje de programación utilizado en los componentes electrónicos que componen un ordenador, de dificil comprensión por el ser humano.
+15;lenguaje-compilado;Lenguaje que requiere un paso adicional antes de ser ejecutado, la compilación, que convierte el código que escrito a lenguaje de máquina.
+15;lenguaje-interpretado;Un lenguaje que es convertido a lenguaje de máquina a medida que es ejecutado.
