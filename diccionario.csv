@@ -1,41 +1,71 @@
-﻿id_dict;id_tarea;término;def_término
-001;11;turing;"Alan Turing fue un matemático considerado hoy en día como uno de los padres de la computación y precursor de la informática moderna. Es conocido por crear el concepto de ""máquina de turing"" que permite juzgar si la inteligencia de una máquina es equiparable a la de un ser humano."
-002;11;programación;Capacidad de gestionar tareas en el tiempo de manera sistemática. En el argot informático, hace refencia a la acción de escribir código en un lenguaje diseñado para que un ordenador ejecute una serie de instrucciones.
-003;11;inteligencia-artificial;Es la capacidad de una máquina de realizar tareas similares a las de un ser humano.
-004;12;transistor;Es un dispositivo electrónico capaz de regular el paso de corriente en base a un impulso externo.
-005;12;ley-de-moore;Ley que afirma que la cantidad de transistores que componen un microprocesador se duplica cada dos años.
-006;12;puertas-lógicas;Son dispositios electrónicos con lógica booleana integrada.
-007;13;periférico;Componentes externos de un ordenador como el teclado, el ratón y el monitor.
-008;13;arquitectura-von-neumann;Arquitectura de computadoras descrita en 1945 por el matemático y físico John Von Neumann. Los ordenadores que siguen esta arquitectura, almacenan los datos y las instrucciones del programa en la misma memoria.
-009;13;arquitectura-harvard;Arquitectura de computadoras usada en los años 50 por IBM. Los ordenadores que siguen esta arquitectura, almacenan los datos y las instrucciones del programa en memorias distintas.
-010;13;sistema-operativo;Conjunto de instrucciones que gestionan los recursos físicos y virtuales de un ordenador.
-011;13;software;Se refiere a conjuntos de instrucciones con un mismo propósito ubicados en un dispositivo de almacenamiento o memoria.
-012;13;hardware;Conjunto de componentes físicos que forman parte de un ordenador.
-013;13;raspberry-pi;Es un hardware popular por tener un precio muy competitivo y servir como un mini ordenador con grandes opciones de conectividad.
-014;13;arduino;Es un hardware popular por tener un precio muy competitivo y servir como un mini ordenador con grandes opciones de procesamiento de señales tanto analógicas como digitales.
-015;14;compilador;Software que traduce lenguaje de alto nivel en lenguaje máquina o uno intermedio.
-016;14;intérprete;Programa informático capaz de entender y procesar código generalmente de alto nivel.
-017;14;lenguaje-de-programación;Abstracción del lenguaje que permite gestionar los recursos que ofrece un ordenador.
-018;14;editor-de-código;Programa facilita la escritura de código.
-019;14;lenguaje-de-alto-nivel;Lenguaje de programación que permite la escritura de código con lógica y palabras aproximadas al lenguaje humano.
-020;14;lenguaje-de-máquina;Lenguaje compuesto por series de señales binarias procesables directamente por los componentes de un ordenador.
-021;15;python;Popular lenguaje de programación de alto nivel conocido por su gran abanico de librerías, como por ejemplo, las orientadas a IA.
-022;15;R;Popular lenguaje de programación de alto nivel orientado a investigación con fines estadísticos.
-023;15;Lisp;Uno de los primeros lenguajes de programación de alto nivel, conocido por basarse en el procesamiento de listas.
-024;15;Java;Popular lenguaje de programación de alto nivel conocido por su capacidad de ser integrado en distintas plataformas mediante la Java Virtual Machine.
-025;15;lenguaje-de-bajo-nivel;Lenguaje de programación utilizado en los componentes electrónicos que componen un ordenador, de dificil comprensión por el ser humano.
-026;15;lenguaje-compilado;Lenguaje que requiere un paso adicional antes de ser ejecutado, la compilación, que convierte el código que escrito a lenguaje de máquina.
-027;15;lenguaje-interpretado;Un lenguaje que es convertido a lenguaje de máquina a medida que es ejecutado.
-028;16;repositorio-de-control-de-versiones;Es un lugar en el que queda almacenado de manera sistemática los cambios por los que ha pasado un conjunto de archivos.
-029;16;github;Proveedor de servicios para la herramienta git, permitiendo utiliar sus servidores para gestionar control de versiones.
-030;17;lenguaje-de-programación;017
-031;17;javascript;Lenguaje de programación interpretado, popular por su uso para el desarrollo depáginas web.
-032;17;python;021
-033;17;php;Lenguaje de programación tan popular como odiado orientado a la gestión de servidores y al desarrollo web.
-034;17;Java;024
-035;17;html;Lenguaje de marcado para la elaboración de páginas web.
-036;17;CSS;Lenguaje de diseño gráfico orientaod a la creación de páginas web.
-037;17;R;022
-038;17;SQL;"Significa ""Structured Query Language"", y es un lenguaje que permite la gestión de bases de datos."
-039;21;Algoritmo;Secuencia de instrucciones aplicadas sobre un estado inicial para llegar a otro estado.
-040;21;Diagrama-de-flujo;Conjunto de reglas que regulan la ejecución de un algoritmo.
+﻿obligatorio;id_dict;id_tarea;término;def_término
+V;001;11;turing;"Alan Turing fue un matemático considerado hoy en día como uno de los padres de la computación y precursor de la informática moderna. Es conocido por crear el concepto de ""máquina de turing"" que permite juzgar si la inteligencia de una máquina es equiparable a la de un ser humano."
+V;002;11;programación;Capacidad de gestionar tareas en el tiempo de manera sistemática. En el argot informático, hace refencia a la acción de escribir código en un lenguaje diseñado para que un ordenador ejecute una serie de instrucciones.
+V;003;11;inteligencia-artificial;Es la capacidad de una máquina de realizar tareas similares a las de un ser humano.
+V;004;12;transistor;Es un dispositivo electrónico capaz de regular el paso de corriente en base a un impulso externo.
+V;005;12;ley-de-moore;Ley que afirma que la cantidad de transistores que componen un microprocesador se duplica cada dos años.
+V;006;12;puertas-lógicas;Son dispositios electrónicos con lógica booleana integrada.
+V;007;13;periférico;Componentes externos de un ordenador como el teclado, el ratón y el monitor.
+V;008;13;arquitectura-von-neumann;Arquitectura de computadoras descrita en 1945 por el matemático y físico John Von Neumann. Los ordenadores que siguen esta arquitectura, almacenan los datos y las instrucciones del programa en la misma memoria.
+V;009;13;arquitectura-harvard;Arquitectura de computadoras usada en los años 50 por IBM. Los ordenadores que siguen esta arquitectura, almacenan los datos y las instrucciones del programa en memorias distintas.
+V;010;13;sistema-operativo;Conjunto de instrucciones que gestionan los recursos físicos y virtuales de un ordenador.
+V;011;13;software;Se refiere a conjuntos de instrucciones con un mismo propósito ubicados en un dispositivo de almacenamiento o memoria.
+V;012;13;hardware;Conjunto de componentes físicos que forman parte de un ordenador.
+V;013;13;raspberry-pi;Es un hardware popular por tener un precio muy competitivo y servir como un mini ordenador con grandes opciones de conectividad.
+V;014;13;arduino;Es un hardware popular por tener un precio muy competitivo y servir como un mini ordenador con grandes opciones de procesamiento de señales tanto analógicas como digitales.
+V;015;14;compilador;Software que traduce lenguaje de alto nivel en lenguaje máquina o uno intermedio.
+V;016;14;intérprete;Programa informático capaz de entender y procesar código generalmente de alto nivel.
+V;017;14;lenguaje-de-programación;Abstracción del lenguaje que permite gestionar los recursos que ofrece un ordenador.
+V;018;14;editor-de-código;Programa facilita la escritura de código.
+V;019;14;lenguaje-de-alto-nivel;Lenguaje de programación que permite la escritura de código con lógica y palabras aproximadas al lenguaje humano.
+V;020;14;lenguaje-de-máquina;Lenguaje compuesto por series de señales binarias procesables directamente por los componentes de un ordenador.
+V;021;15;python;Popular lenguaje de programación de alto nivel conocido por su gran abanico de librerías, como por ejemplo, las orientadas a IA.
+V;022;15;R;Popular lenguaje de programación de alto nivel orientado a investigación con fines estadísticos.
+V;023;15;Lisp;Uno de los primeros lenguajes de programación de alto nivel, conocido por basarse en el procesamiento de listas.
+V;024;15;Java;Popular lenguaje de programación de alto nivel conocido por su capacidad de ser integrado en distintas plataformas mediante la Java Virtual Machine.
+V;025;15;lenguaje-de-bajo-nivel;Lenguaje de programación utilizado en los componentes electrónicos que componen un ordenador, de dificil comprensión por el ser humano.
+V;026;15;lenguaje-compilado;Lenguaje que requiere un paso adicional antes de ser ejecutado, la compilación, que convierte el código que escrito a lenguaje de máquina.
+V;027;15;lenguaje-interpretado;Un lenguaje que es convertido a lenguaje de máquina a medida que es ejecutado.
+V;028;16;repositorio-de-control-de-versiones;Es un lugar en el que queda almacenado de manera sistemática los cambios por los que ha pasado un conjunto de archivos.
+V;029;16;github;Proveedor de servicios para la herramienta git, permitiendo utiliar sus servidores para gestionar control de versiones.
+V;030;17;lenguaje-de-programación;017
+V;031;17;javascript;Lenguaje de programación interpretado, popular por su uso para el desarrollo depáginas web.
+V;032;17;python;021
+V;033;17;php;Lenguaje de programación tan popular como odiado orientado a la gestión de servidores y al desarrollo web.
+V;034;17;Java;024
+V;035;17;html;Lenguaje de marcado para la elaboración de páginas web.
+V;036;17;CSS;Lenguaje de diseño gráfico orientaod a la creación de páginas web.
+V;037;17;R;022
+V;038;17;SQL;"Significa ""Structured Query Language"", y es un lenguaje que permite la gestión de bases de datos."
+V;039;21;Algoritmo;Secuencia de instrucciones aplicadas sobre un estado inicial para llegar a otro estado.
+V;040;21;Diagrama-de-flujo;Conjunto de reglas que regulan la ejecución de un algoritmo.
+V;041;22;ada-lovelace;Matemática y escritora británica nacida en 1815 a la que se le atribuye la creación del primer programa de ordenador.
+V;042;22;bucles;En programación, sucesión de un conjunto de instrucciones regida por una lógica.
+V;043;22;lenguaje-de-programación;017
+F;044;22;programación-dinámica;método para reducir el tiempo de ejecución de un algoritmo mediante la utilización de subproblemas superpuestos y subestructuras óptimas.
+V;045;23;algoritmo-de-cifrado-simétrico;Tipo de algoritmo de cifrado que utiliza una clave previamente conocida por los dos extremos del canal de información.
+V;046;23;algoritmo-de-cifrado-asimétrico;Tipo de algoritmo de cifrado que utiliza una clave pública, mediante la cual se encripta la información, y otra privada, que desencripta esa información.
+V;047;23;funciones-en-programación;Unidades de abstracción lógicas que funcionan como una unidad de procesamiento. Generalmente en base a unos parámetros (input) ejecuta una serie de instrucciones (output).
+V;048;24;convertidor-analógico-digital;"Mecanismo que transforma señales continuas analógicas en señales discontinuas digitales (""0"", ""1""), mediante el uso de puertas lógicas."
+V;049;24;transistores-bipolares;012
+V;050;24;frecuencia-de-muestreo;La tasa o frecuencia de muestreo es el número de muestras por unidad de tiempo que se toman de una señal continua para producir una señal discreta, durante el proceso necesario para convertirla de analógica en digital.
+V;051;24;sistema-binario;Lenguaje compuesto por unos y ceros utilizado en la programación de lenguaje máquina en ordenadores.
+V;052;24;algebrabooleana;Planteamiento lógico basado en el sistema binario y en el uso de operadores que producen un output en base a distintos inputs.
+V;053;25;arquitectura-cliente-servidor;Sistema por el cual se establece la comunicación entre distintos ordenadores, en el cual el cliente realiza una petición de información y el servidor responde con información relacionada con la petición.
+V;054;25;FTP ;Protocolo de comunicación de red diseñado para la transferencia de archivos entre ordenadores.
+V;055;25;servidor-web;Extremo de comunicación en la arquitectura Cliente-Servidor que se encarga de de gestionar y servir peticiones al cliente.
+V;056;25;IP;Dirección que identifica de manera lógica y univoca una interfaz de red.
+V;057;25;DNS;Servidor web que agrupa los nombres de los dominios y sus correspondientes IPs para facilitar la conexión de los clientes a los servidores.
+V;058;25;protocolo-TCP/IP;Conjunto de protocolos que permiten la comunicación entre los ordenadores pertenecientes a una red.
+F;059;25;bbdd-relacional;Base de datos que se basa en el almacenamiento de datos relacionados mediante identificadores. El uso de un esquema fijo le da gran robustez.
+F;060;25;bbdd-no-relacional;Base de datos que se basa en el almacenamiento de datos en documentos. Evitar usar un esquema fijo, permite que estas bases de datos crezcan y se gestionen más fácilmente.
+F;061;25;MEAN;Stack compuesto por: MongoDB, Express, AngularJS y NodeJS
+F;062;25;LAMP;Stack compuesto por: Linux, ApacheServer, MySQL y PHP
+V;063;33;diagrama-de-flujo;021
+V;064;33;bucles-en-programación;022
+V;065;46;estadística-descriptiva;Parte de la estadística dedicada a la organización, reunión y comunicación de información relacionada con un conjunto de datos.
+V;066;46;análisis-exploratorio;El análisis exploratorio de datos se refiere al proceso crítico de realizar investigaciones iniciales sobre los datos para descubrir patrones, detectar anomalías, probar hipótesis y verificar supuestos con ayuda de la estadística y representaciones gráficas.
+V;067;46;dato-estructurado;Datos organizados por registros en filas y dimensiones, atributos, o variablaes en columnas, de manera ordenada.
+V;068;46;dato-semiestructurado;Datos que tienen características asociadas ordenables, pero que requieren un leve procesamiento para consolidarlos en una base de datos.
+V;069;46;dato-noestructurado;Datos sin homogeneizar que a priori no comparten atributos por los cuales clasificarlos en un estudio consolidado.
+F;070;46;estadística-inferencial;"Parte de la estadística dedicada a la elaboración de conclusiones en base al estudio de un subconjunto denominado ""muestra"" de una población."
