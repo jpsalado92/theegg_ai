@@ -12,6 +12,8 @@
 
 -- LINK: https://sqlpd.com/
 
+-- La tarea consiste en el uso de terminos SQL de selección, limitación y ordenado de datos. A continuación las soluciones para los distintos casos.
+
 -- Enunciado 1: A mailing list of an illegal online service was sent to the SQLPD hot-line. Please submit all entries' details.
 -- Solución:
  SELECT * FROM mailing_list;
