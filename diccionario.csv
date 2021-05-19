@@ -69,3 +69,39 @@ V;067;46;dato-estructurado;Datos organizados por registros en filas y dimensione
 V;068;46;dato-semiestructurado;Datos que tienen características asociadas ordenables, pero que requieren un leve procesamiento para consolidarlos en una base de datos.
 V;069;46;dato-noestructurado;Datos sin homogeneizar que a priori no comparten atributos por los cuales clasificarlos en un estudio consolidado.
 F;070;46;estadística-inferencial;"Parte de la estadística dedicada a la elaboración de conclusiones en base al estudio de un subconjunto denominado ""muestra"" de una población."
+V;071;31;ETL;Extacción Transformación y Carga. Proceso que abarca la colección de datos de distintas fuentes, su transformación de cara a un objetivo y su almacenamiento para su posterior aprovechamiento.
+V;072;31;bases-de-datos;Software dedicado al almacenamiento de grandes cantidades de datos, permitiendo su consulta posterior mediante instrucciones estructuradas.
+V;073;31;data-preprocessing;Parte del ciclo de vida del dato en el cual se prepara un conjunto de datos para su explotación.
+V;074;34;API;Application Programming Interface. Interfaz preparada para la explotación de un desarrollo por terceros.
+V;075;34;JSON;Formato de texto sencillo para el almacenamiento de datos ordenados.
+V;076;34;XML;Formato de texto que permite el almacenamiento de datos mediante lenguaje de marcas.
+V;077;34;protocolo-de-comunicación;Método que permite la comunicación entre dos extremos, siguiendo una lógica fijado por estándar.
+F;078;34;REST;Representational State Transfer.
+V;079;43;SQL;017
+V;080;43;bases-de-datos-relacionales;025
+V;081;43;MySQL;MySQL es un sistema de gestión de bases de datos relacional considerada como la base de datos de código abierto más popular del mundo
+V;082;43;postgreSQL;Sistema de gestión de bases de datos relacionales (RDMS) de código libre.
+V;083;43;MongoDB;Sistema de base de datos NoSQL, orientado a documentos y de código abierto que en lugar de guardar los datos en tablas, tal y como se hace en las bases de datos relacionales, guarda estructuras de datos BSON esquema dinámico, haciendo que la integración de los datos en ciertas aplicaciones sea más fácil y rápida.
+V;084;26;herramientas-de-Business-Intelligence;Elemento auxiliar para la explotación y el análisis de datos.
+V;085;26;calidad-del-dato;Termino usado para definir la explotabilidad de un conjunto ed datos, en la cual influyen su homogeneidad, comparabilidad, formato y estructura.
+V;086;26;análisis-exploratorio;046
+V;087;26;estadística-descriptiva;026
+V;088;26;histograma;Representación gráfica de una variable en forma de barras, donde la superficie de cada barra es proporcional a la frecuencia de los valores representados.
+V;089;26;gráfico-de-barras;Gráfico bidimensional que muestra observaciones en barras que parten desde uno de los ejes.
+V;090;26;gráfico-circular;Gráfico que muestra en un círculo partes de un conjunto por su peso en el mismo.
+V;091;26;gráfico-de-dispersión;Gráfico bidimensional que muestra en un punto cada observación en un conjunto de datos según las dimensiones establecidas.
+V;092;26;gráfico-de-caja-y-bigotes;Gráfico que muestra de manera resumida la distribución (Q1, Q3, mediana, extremos y valores atípicos) seguida por varios conjuntos de datos sobre una misma variable.
+V;093;26;cartograma;Gráfico o diagrama que muestra catacterísticas de un área geográfica de manera ordenada.
+V;094;51;Sistema-Operativo;051
+V;095;51;Linux;GNU/Linux es la denominación técnica y generalizada que reciben una serie de sistemas operativos de tipo Unix, que también suelen ser de código abierto, multiplataforma, multiusuario y multitarea
+V;096;51;CPU;Unidad central de procesamiento. Hardware considerado como el núcleo de un ordenador, posibilita el procesamiento lógico de instrucciones.
+V;097;51;GPU;Unidad de procesamiento de gráficos, especializada en el cálculo de operaciones de coma flotante.
+V;098;51;Periférico;013
+V;099;51;Terminal;Dispositivo informático que puede estar conectado a una red.
+V;100;51;Interfaz;Elemento entre el humano y la máquina que facilita su interacción.
+V;101;54;pentesting;Proceso de exploración de vulnerabilidades de un sistema mediante la simulación de ataques dirigidos.
+V;102;54;ciberseguridad;Campo de la informática que estudia la vulnerabilidad de sistemas informáticos.
+V;103;54;ransomware;Software diseñado con el fin de restringir la accesibilidad de un individuo a servicios informáticos o información almacenada en ellos, posibilitando el chantaje del atacante a la víctima para su recuperación.
+V;104;54;phising;Ataque caracterizado por la suplantación de identidad, ganándose la confianza de la víctima para efectuar un robo de credenciales, datos, dinero, etc.
+V;105;54;spyware;El programa espía​ es un malware que recopila información de una computadora y después transmite esta información a una entidad externa sin el conocimiento o el consentimiento del propietario del computador.
+V;106;54;troyano;Ataque caracterizado por la intrusión de un atacante en un sistema mediante un software aparentemente legítimo.
