@@ -19,6 +19,7 @@ Mi trabajo en la escuela de IA semipresencial y sin profesores "TheEgg"
 * [tarea_31](tarea_31)
 * [tarea_33](tarea_33)
 * [tarea_34](tarea_34)
+* [tarea_37](tarea_37)
 * [tarea_43](tarea_43)
 * [tarea_46](tarea_46)
 * [tarea_51](tarea_51)

@@ -105,3 +105,13 @@ V;103;54;ransomware;Software diseñado con el fin de restringir la accesibilidad
 V;104;54;phising;Ataque caracterizado por la suplantación de identidad, ganándose la confianza de la víctima para efectuar un robo de credenciales, datos, dinero, etc.
 V;105;54;spyware;El programa espía​ es un malware que recopila información de una computadora y después transmite esta información a una entidad externa sin el conocimiento o el consentimiento del propietario del computador.
 V;106;54;troyano;Ataque caracterizado por la intrusión de un atacante en un sistema mediante un software aparentemente legítimo.
+V;107;37;dirección-IP;Secuencia de 32 bits que define un dispositivo en una red. Toda IP pertenece a un conjunto definido por una máscara.
+V;108;37;internet;Conjunto de dispositivos interconectados entre sí en una red a escala mundial, que permiten el tráfico controlado de información entre ellos.
+V;109;37;red-WAN;Red de dispositivos conectada por cable.
+V;110;37;red-LAN;Red de dispositivos conectada inalámbricamente.
+V;111;37;máscara-de-subred;Representación de la fragmentación de una red, analoga al CIDR, que presenta mejoras de procesamiento sobre este.
+V;112;37;router ;Dispositivo de red que permite la comunicación de redes informáticas entre sí, dirigiendo paquetes de datos entre un origen y un destinatario.
+V;113;37;switch;Dispositivo de red que permite la comunicación de dispositivos, pero únicamente dentro de la misma red, bajo la misma ip pública.
+V;114;37;TCP-IP;Transfer Control Protocol. Protocolo…
+V;115;37;IP-pública;Se refiere a la dirección lógica de un dispositivo en internet, de tal manera que otros dispositivos puedan llegar a él.
+V;116;37;IP-privada;Se refiere a la dirección lógica de un dispositivo en una red local, de tal manera los dispositivos de una red local sean identificados y accesibles por otros dispositivos.
