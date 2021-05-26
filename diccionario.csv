@@ -115,3 +115,8 @@ V;113;37;switch;Dispositivo de red que permite la comunicación de dispositivos,
 V;114;37;TCP-IP;Transfer Control Protocol. Protocolo…
 V;115;37;IP-pública;Se refiere a la dirección lógica de un dispositivo en internet, de tal manera que otros dispositivos puedan llegar a él.
 V;116;37;IP-privada;Se refiere a la dirección lógica de un dispositivo en una red local, de tal manera los dispositivos de una red local sean identificados y accesibles por otros dispositivos.
+V;117;41;expresiones-regulares;Reglas definidas en una cadena de caracteres que fijan la lógica de búsqueda de elementos en otra cadena de caracteres.
+V;118;41;scrapping;Extracción de datos de páginas web para su posterior análisis o procesamiento.
+V;119;41;procesamiento-del-lenguaje-natural;El Procesamiento del Lenguaje Natural es el campo de conocimiento de la Inteligencia Artificial que se ocupa de la investigar la manera de comunicar las máquinas con las personas mediante el uso de lenguas naturales, como el español, el inglés o el chino.
+V;120;41;crawling;Exploración recursiva en una página web a través de sus hipervínculos.
+F;121;41;parsing;Procesado de una cadena de caracteres siguiene una lógica prefijada.
