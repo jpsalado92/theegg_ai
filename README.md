@@ -24,6 +24,7 @@ Mi trabajo en la escuela de IA semipresencial y sin profesores "TheEgg"
 * [tarea_43](tarea_43)
 * [tarea_46](tarea_46)
 * [tarea_51](tarea_51)
+* [tarea_55: Línea de comandos en Linux... o Windows](tarea_55)
 
 ## Recursos
 

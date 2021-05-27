@@ -120,3 +120,5 @@ V;118;41;scrapping;Extracción de datos de páginas web para su posterior análi
 V;119;41;procesamiento-del-lenguaje-natural;El Procesamiento del Lenguaje Natural es el campo de conocimiento de la Inteligencia Artificial que se ocupa de la investigar la manera de comunicar las máquinas con las personas mediante el uso de lenguas naturales, como el español, el inglés o el chino.
 V;120;41;crawling;Exploración recursiva en una página web a través de sus hipervínculos.
 F;121;41;parsing;Procesado de una cadena de caracteres siguiene una lógica prefijada.
+V;122;55;línea-de-comandos;Software destinado a la interacción humano-máquina que nos permite ejecutar comandos mediante únicamente el teclado en el sistema operativo.
+V;123;55;consola;122
