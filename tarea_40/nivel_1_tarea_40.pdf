@@ -1,0 +1,594 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+15 0 R
+31 0 R
+]
+/Count 3
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 33 0 R
+>>
+/XObject << 
+/I1 11 0 R
+/I2 12 0 R
+>>
+>>
+/MediaBox [0.000 0.000 595.280 841.890]
+ >>
+endobj
+4 0 obj
+[/PDF /Text /ImageC ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20210528140241+02'00')
+/ModDate (D:20210528140241+02'00')
+/Title (PDF tarea 40)
+/Subject (Hay que ser consciente de que cuando se desarrolla un software y se despliega una infraestructura que soporte un servicio este tiene que ser lo m·s seguro posible. Para ello es importante conocer cuales son las posibles vulnerabilidades de la infraestructura digital y ponerle remedio)
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 13 0 R ]
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 6204 >>
+stream
+
+0.000 0.529 0.349 rg
+2.250 716.737 590.780 122.903 re f
+1.000 1.000 1.000 rg
+BT 19.500 801.574 Td /F2 10.5 Tf  [(JuanpabloSalado)] TJ ET
+BT 19.500 779.682 Td /F1 9.0 Tf  [(Nivel: 1)] TJ ET
+BT 19.500 768.693 Td /F1 9.0 Tf  [(Tipo: individual)] TJ ET
+BT 19.500 757.704 Td /F1 9.0 Tf  [(Modo: obligatorio)] TJ ET
+BT 19.500 746.715 Td /F1 9.0 Tf  [(Dificultad: intermedio)] TJ ET
+q
+48.000 0 0 39.360 274.926 758.508 cm /I2 Do
+Q
+BT 430.666 790.585 Td /F2 10.5 Tf  [(Skootik Mobile Technologies)] TJ ET
+BT 501.251 768.693 Td /F1 9.0 Tf  [(https://skootik.com)] TJ ET
+BT 504.626 757.704 Td /F1 9.0 Tf  [(info@skootik.com)] TJ ET
+0.953 0.576 0.224 rg
+2.250 650.355 590.780 64.131 re f
+1.000 1.000 1.000 rg
+BT 36.054 691.421 Td /F2 10.5 Tf  [(Hay que ser consciente de que cuando se desarrolla un software y se despliega una infraestructura que )] TJ ET
+BT 43.946 678.564 Td /F2 10.5 Tf  [(soporte un servicio este tiene que ser lo m·s seguro posible. Para ello es importante conocer cuales )] TJ ET
+BT 97.791 665.707 Td /F2 10.5 Tf  [(son las posibles vulnerabilidades de la infraestructura digital y ponerle remedio)] TJ ET
+0.000 0.000 0.000 rg
+BT 187.609 601.183 Td /F2 18.0 Tf  [(La seguridad es importante)] TJ ET
+0.000 0.000 0.000 RG
+0.36 w 0 J [  ] 0 d
+187.609 598.325 m 422.671 598.325 l S
+BT 15.000 555.126 Td /F1 12.0 Tf  [(En cuantas pelÌculas de Hollywood has visto al "tÌpico hacker" con su peculiar y caracterÌstica forma de )] TJ ET
+BT 15.000 540.474 Td /F1 12.0 Tf  [(vestir, sin amigos, introvertido, ... pues bien, hasta aquÌ todo ciencia ficciÛn.)] TJ ET
+BT 15.000 511.422 Td /F1 12.0 Tf  [(Para empezar, los hackers no tienen porquÈ parecerse a esta barata descripciÛn hollywoodiense y para )] TJ ET
+BT 15.000 496.770 Td /F1 12.0 Tf  [(continuar la palabra ")] TJ ET
+BT 127.980 496.770 Td /F2 12.0 Tf  [(hacker)] TJ ET
+BT 166.668 496.770 Td /F1 12.0 Tf  [(" se refiere a la )] TJ ET
+BT 250.296 496.770 Td /F2 12.0 Tf  [(persona capaz de introducirse en sistemas inform·ticos)] TJ ET
+BT 15.000 482.118 Td /F1 12.0 Tf  [(ajenos pero sin fines ilÌcitos. De hecho, muchos hackers est·n contratados por empresas financieras, )] TJ ET
+BT 15.000 467.466 Td /F1 12.0 Tf  [(industriales incluso estatales para hacer de sus sistemas inform·ticos entornos m·s seguros. Las )] TJ ET
+BT 15.000 452.814 Td /F1 12.0 Tf  [(personas que adem·s de ser capaces de entrar en sistemas ajenos, lo hacen con fines delictivos, son )] TJ ET
+BT 15.000 438.162 Td /F1 12.0 Tf  [(m·s conocidos en la jerga inform·tica como ")] TJ ET
+BT 256.680 438.162 Td /F2 12.0 Tf  [(crackers)] TJ ET
+BT 306.048 438.162 Td /F1 12.0 Tf  [(".)] TJ ET
+BT 15.000 409.110 Td /F1 12.0 Tf  [(En cualquier caso, la cruda realidad es que en los sistemas y arquitecturas digitales asÌ como en los )] TJ ET
+BT 15.000 394.458 Td /F1 12.0 Tf  [(softwares inform·ticos, )] TJ ET
+BT 141.036 394.458 Td /F2 12.0 Tf  [(SIEMPRE)] TJ ET
+BT 195.048 394.458 Td /F1 12.0 Tf  [(, existen vulnerabilidades, agujeros de seguridad que si los descubre )] TJ ET
+BT 15.000 379.806 Td /F1 12.0 Tf  [(un cracker, puede tener el control absoluto de cualquier organizaciÛn. PodrÌamos utilizar la analogÌa de la )] TJ ET
+BT 15.000 365.154 Td /F1 12.0 Tf  [(puerta de casa: no es lo mismo poner en nuestra vivienda una puerta de una fina chapa o de madera )] TJ ET
+BT 15.000 350.502 Td /F1 12.0 Tf  [(maciza, obviamente, la puerta gruesa aguantar· m·s la envestida de cualquier caco; ahora, si este viene )] TJ ET
+BT 15.000 335.850 Td /F1 12.0 Tf  [(con un coche-ariete y utiliza la tÈcnica del alunizaje, al final terminar· por derribar la puerta aunque sea )] TJ ET
+BT 15.000 321.198 Td /F1 12.0 Tf  [(de madera maciza. )] TJ ET
+BT 15.000 292.146 Td /F1 12.0 Tf  [(Con la inform·tica ocurre algo parecido. Cuanto m·s seguro sea nuestro sistema inform·tico mejor, )] TJ ET
+BT 15.000 277.494 Td /F1 12.0 Tf  [(cuanto m·s grueso y robusto sean nuestros filtros de seguridad mejor. PERO... no existe la seguridad al )] TJ ET
+BT 15.000 262.842 Td /F1 12.0 Tf  [(100%. Eso no significa que debemos perder la guardia. Debemos estar atentos a los tipos de ataques )] TJ ET
+BT 15.000 248.190 Td /F1 12.0 Tf  [(inform·ticos que existen e intentar poner un remedio a la hora de construir nuestros software-s de )] TJ ET
+BT 15.000 233.538 Td /F1 12.0 Tf  [(Inteligencia Artificial. Imaginad por un minuto el desastre que supondrÌa que un cracker se introdujese en )] TJ ET
+BT 15.000 218.886 Td /F1 12.0 Tf  [(el sistema inform·tico que gestiona todos los coches de conducciÛn autÛnoma Tesla.)] TJ ET
+BT 15.000 189.834 Td /F1 12.0 Tf  [(Asumiendo que todos los sistemas son vulnerables, adem·s de la seguridad, es igual de importante la )] TJ ET
+BT 15.000 175.182 Td /F1 12.0 Tf  [(segmentaciÛn de la informaciÛn, y la restricciÛn de accesos por niveles. De este modo se limitar· el )] TJ ET
+BT 15.000 160.530 Td /F1 12.0 Tf  [(impacto cuando se produzca una brecha. Un buen sistema de copias de seguridad \(backup\) que permita )] TJ ET
+BT 15.000 145.878 Td /F1 12.0 Tf  [(en caso de ataque purgar el sistema tambiÈn es vital.)] TJ ET
+BT 15.000 116.826 Td /F1 12.0 Tf  [(Existe una larga lista de ataques inform·ticos y de malware-s. AsÌ como los brotes de gripe se producen )] TJ ET
+BT 15.000 102.174 Td /F1 12.0 Tf  [(en una estaciÛn determinada del aÒo y empiezan a extenderse entre la poblaciÛn, las epidemias para los )] TJ ET
+BT 15.000 87.522 Td /F1 12.0 Tf  [(PC, telÈfonos inteligentes, tabletas y redes empresariales no son previsibles. Las computadoras )] TJ ET
+BT 15.000 72.870 Td /F1 12.0 Tf  [(enferman gracias a programas inform·ticos conocidos como )] TJ ET
+BT 339.780 72.870 Td /F2 12.0 Tf  [(malware)] TJ ET
+BT 387.804 72.870 Td /F1 12.0 Tf  [(, y existen de diferentes tipologÌas: )] TJ ET
+BT 15.000 58.218 Td /F3 12.0 Tf  [(virus, troyanos, gusanos, spyware, ransomware, adware, ...)] TJ ET
+BT 331.788 58.218 Td /F1 12.0 Tf  [(. Algunas infecciones son sigilosas y otras )] TJ ET
+BT 15.000 43.566 Td /F1 12.0 Tf  [(nada sutiles. Pero siempre hay modos de )] TJ ET
+BT 239.100 43.566 Td /F1 12.0 Tf  [(prevenir nuestras computadoras contra la infecciÛn)] TJ ET
+0.24 w 0 J [  ] 0 d
+239.100 42.031 m 511.212 42.031 l S
+BT 511.212 43.566 Td /F1 12.0 Tf  [(.)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 50
+/Height 41
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 1 /Columns 50 /BitsPerComponent 8>>
+/ColorSpace /DeviceGray
+/BitsPerComponent 8
+/Length 874>>
+stream
+HâïUD„aÕL&ôìLíIˆGŒúIÊ+˘Jí$I¶?299Ir˙„‰Ã9…ú$'ô…‰L2g&gr˙„díô$…díd2ìôÃW&˜ºﬂkmﬂuÓÛ«˚>ÔÛ>üÔÛ<Ô˚|üó±
+4ço¡ëOÁ]&ˆ/8ÉOd¸ò:ª8ªÊäQOÛkÎ ∆l ßl}ã1âh±1c=∆òÑ¥ß*ÉÌ».Èª˙,ÍnÑÅ'oCÌ∆2Ó∫Î˘∑˘Ä‹\µvw≠ıÑñU Óx°≤∂WÑÆ=‡c•‚£ÚÏ‡ácm◊%M=!Úú—¬ÚÏ¬ç«˜˙é⁄„∏,Gèy≈4çY‘ãn´"M`[]\Í<*‘ÕË+n-≤pª¢ÈÁE2≥!e
+tE∂ﬂ˜ük8>$¯dEÜi^÷—E6è1w∑ç≠Nk4NaY]cà∆ÀÂs:ç‘O†©öb»ÄÓ'Ä>u=àÄ—›ù(2vñö¡E4o¨q”è$O≈¶.ìîÀ⁄!ùXÊT· ¢Œ$·d%É∂4≠ü˚-∆ºA÷∏{1o–°å`ì·Rg£>Ã∏a8˘/
+ª√Y≈z<∏5°Hc¡≠EöF+LéQÈ≈„ó£‚4Ósiü$”óˆû”∫&J™º
+!ÔÛÂ∞√%ÑÈw1vÈÜ6üsπcí§≠:…ÆW ÎñF‡=cstóVÄ"ù¥_bàj‚ZIèBÖ√Ö4W‹¬.*RQ.é8Ê/ﬂæ$b˚âÛìvÚtÒñ:ﬁ"OmßµÑ≈F‡ß5Øf°˜W∫ïôÔq$ä	†áæˇGñ˙µ‰]Ù≈µß;ØP#Âhï¿‘Í>Gá∆ÅCëKÔBπÎ#©ÌÓdØ®YÙr≠W=ﬁi¯ü/™≠Môvø˜8êöò5¥—„‹A¡ÃxÃ™rVuª<0…Xü"çìrÖ.uª’ÊNib0ÉÁ
+Hπ{C∆Vﬁø—Œ£APãƒÿ+–8ë«~E0N<Xk8/–Ò¯ÚB≥ÄÃk=Ÿ‚í=UJnªt≠	m^	“ßZ˝20´K)$¨Î>J‡b≤ZÈZ°„ ØË7vjè⁄ı∑*O£©]òè»¡¡§ŒVÜì«Ä˛"ßπXä}h{≈^F≥€ü,…U(ùÑE≥æ’_`2
+endstream
+endobj
+12 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 50
+/Height 41
+/SMask 11 0 R
+/Filter /FlateDecode
+/DecodeParms << /Predictor 15 /Colors 3 /Columns 50 /BitsPerComponent 8>>
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 70>>
+stream
+XÖÌŒ1Ä0 ±Rˇû,7ÒC¢ œÃú}ÓﬂÅoZÖV°UhZÖV°UhZÖV°UhZÖV°UhZÖV°U,mΩ:£O
+endstream
+endobj
+13 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 14 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 239.1000 42.4559 511.2120 54.6659 ]
+>>
+endobj
+14 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://www.xataka.com/basics/malware-que-que-tipos-hay-como-evitarlos)
+>>
+endobj
+15 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R ]
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 8662 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+0.24 w 0 J [  ] 0 d
+BT 15.000 830.168 Td /F1 12.0 Tf  [(Adem·s de estos malware-s existen diferentes tipos de ataques bastante comunes que es interesante )] TJ ET
+BT 15.000 815.516 Td /F1 12.0 Tf  [(nombrar para que los @eggers teng·is una radiografÌa genÈrica de a quÈ tipo de ataques os podÈis )] TJ ET
+BT 15.000 800.864 Td /F1 12.0 Tf  [(enfrentar cuando desarrollÈis una aplicaciÛn comercial:)] TJ ET
+BT 15.000 786.212 Td /F2 12.0 Tf  [(1.- DDoS \(denegaciÛn de servicio\))] TJ ET
+BT 209.052 786.212 Td /F1 12.0 Tf  [(: Imaginad que tenÈis una aplicaciÛn web de Inteligencia Artificial )] TJ ET
+BT 15.000 771.560 Td /F1 12.0 Tf  [(para la detecciÛn de objetos en im·genes. A esta aplicaciÛn se acceder· escribiendo la URL \(direcciÛn\) )] TJ ET
+BT 15.000 756.908 Td /F1 12.0 Tf  [(en el navegador. Pues bien, el servidor donde se ejecuta vuestra aplicaciÛn solo puede procesar una )] TJ ET
+BT 15.000 742.256 Td /F1 12.0 Tf  [(cierta cantidad de solicitudes de una vez, de modo que si un atacante sobrecarga el servidor con muchas )] TJ ET
+BT 15.000 727.604 Td /F1 12.0 Tf  [(solicitudes, el servidor no dar· m·s de sÌ. El servidor se caer· y nadie podr· disfrutar del servicio que )] TJ ET
+BT 15.000 712.952 Td /F1 12.0 Tf  [(ofreces.)] TJ ET
+BT 15.000 698.300 Td /F2 12.0 Tf  [(2.- InyecciÛn SQL)] TJ ET
+BT 115.704 698.300 Td /F1 12.0 Tf  [(: Son fragmentos de cÛdigo que generalmente el cracker introduce utilizando una )] TJ ET
+BT 15.000 683.648 Td /F1 12.0 Tf  [(puerta de entrada que siempre est· accesible como son los campos de los formularios de cualquier )] TJ ET
+BT 15.000 668.996 Td /F1 12.0 Tf  [(aplicaciÛn web \()] TJ ET
+BT 101.028 668.996 Td /F3 12.0 Tf  [(por ejemplo, el buscador de google es un campo de un formulario, formularios para el )] TJ ET
+BT 15.000 654.344 Td /F3 12.0 Tf  [(inicio de sesiÛn, formularios de contacto, ...)] TJ ET
+BT 245.100 654.344 Td /F1 12.0 Tf  [(\) para obtener informaciÛn de las bases de datos o alterarlas. )] TJ ET
+BT 15.000 639.692 Td /F1 12.0 Tf  [(Es necesario poner filtros de seguridad detr·s de todo formulario e incluso cifrar la informaciÛn relevante )] TJ ET
+BT 15.000 625.040 Td /F1 12.0 Tf  [(escrita en las bases de datos por si alguien externo a la organizaciÛn accediese a ellas.)] TJ ET
+BT 15.000 610.388 Td /F2 12.0 Tf  [(3.- Man in the middle)] TJ ET
+BT 133.692 610.388 Td /F1 12.0 Tf  [(: Ocurre cuando una comunicaciÛn entre dos sistemas es interceptada por una )] TJ ET
+BT 15.000 595.736 Td /F1 12.0 Tf  [(entidad externa. Hasta hace pocos aÒos Tom \(persona 1 ficticia\) podÌa escribir una carta a Lisa \(persona )] TJ ET
+BT 15.000 581.084 Td /F1 12.0 Tf  [(2 ficticia\) en la que le expresaba su amor. PodrÌa ocurrir que el mensaje lo interviniera un cartero )] TJ ET
+BT 15.000 566.432 Td /F1 12.0 Tf  [(entrometido. Imaginad que abre la carta y decide reescribirla a su gusto. Este acto podrÌa provocar que )] TJ ET
+BT 15.000 551.780 Td /F1 12.0 Tf  [(Lisa termine odiando a Tom de por vida.)] TJ ET
+BT 15.000 537.128 Td /F1 12.0 Tf  [(Ahora piensa lo que podrÌa hacer un cracker si interviene tus comunicaciones cuando inicias una sesiÛn )] TJ ET
+BT 15.000 522.476 Td /F1 12.0 Tf  [(en tu red social favorita. PodrÌa interceptar y capturar cualquier informaciÛn que enviamos al servidor, )] TJ ET
+BT 15.000 507.824 Td /F1 12.0 Tf  [(como credenciales de inicio de sesiÛn o informaciÛn financiera, por ejemplo.)] TJ ET
+BT 15.000 493.172 Td /F2 12.0 Tf  [(4.- XSS \(Cross-Site Scripting\))] TJ ET
+BT 183.036 493.172 Td /F1 12.0 Tf  [(: Cuando el atacante es capaz de inyectar un )] TJ ET
+BT 427.176 493.172 Td /F1 12.0 Tf  [(script)] TJ ET
+0.24 w 0 J [  ] 0 d
+427.176 491.638 m 455.844 491.638 l S
+BT 455.844 493.172 Td /F1 12.0 Tf  [(, normalmente )] TJ ET
+BT 15.000 478.520 Td /F1 12.0 Tf  [(Javascript)] TJ ET
+0.24 w 0 J [  ] 0 d
+15.000 476.986 m 69.012 476.986 l S
+BT 69.012 478.520 Td /F1 12.0 Tf  [(, en la salida de una aplicaciÛn web de forma que esta se ejecutar· en el navegador del )] TJ ET
+BT 15.000 463.868 Td /F1 12.0 Tf  [(cliente. Por ejemplo, una ventana emergente que enlace a otra aplicaciÛn web.)] TJ ET
+BT 15.000 449.216 Td /F2 12.0 Tf  [(5.- IngenierÌa social)] TJ ET
+BT 126.384 449.216 Td /F1 12.0 Tf  [(: Trata del arte de manipular a las personas para que compartan su informaciÛn )] TJ ET
+BT 15.000 434.564 Td /F1 12.0 Tf  [(confidencial: contraseÒas, informaciÛn bancaria, ... Existen muchas tÈcnicas de persuasiÛn. Imagina por )] TJ ET
+BT 15.000 419.912 Td /F1 12.0 Tf  [(un momento que eres un alto ejecutivo de una importante multinacional y que dispones de informaciÛn )] TJ ET
+BT 15.000 405.260 Td /F1 12.0 Tf  [(privada sobre las cuentas de las empresa en el ordenador del trabajo. Seg˙n subes por el ascensor... )] TJ ET
+BT 15.000 390.608 Td /F1 12.0 Tf  [(QU… SUERTE! Te acabas de encontrar un pendrive en el suelo y decides mirar el contenido. Introduces )] TJ ET
+BT 15.000 375.956 Td /F1 12.0 Tf  [(el pendrive en el ordenador y... la curiosidad matÛ al gato! El atacante acaba de instalar software )] TJ ET
+BT 15.000 361.304 Td /F1 12.0 Tf  [(malicioso en tu ordenador que le dar· acceso a toda la informaciÛn de la corporaciÛn. El atacante a dado )] TJ ET
+BT 15.000 346.652 Td /F1 12.0 Tf  [(con el eslabÛn m·s dÈbil de toda la cadena de acontecimientos: T⁄!)] TJ ET
+BT 15.000 332.000 Td /F1 12.0 Tf  [(Por si esto no fuera poco, y con el ·nimo de explotar a˙n m·s estas vulnerabilidades, existe una tÈcnica )] TJ ET
+BT 15.000 317.348 Td /F1 12.0 Tf  [(que hemos sufrido todos nosotros alguna vez: el )] TJ ET
+BT 276.468 317.348 Td /F1 12.0 Tf  [(PHISING)] TJ ET
+0.24 w 0 J [  ] 0 d
+276.468 315.814 m 325.812 315.814 l S
+BT 325.812 317.348 Td /F1 12.0 Tf  [(. Es una tÈcnica muy com˙n de ingenierÌa )] TJ ET
+BT 15.000 302.696 Td /F1 12.0 Tf  [(social. AsÌ que, CUIDADO!)] TJ ET
+BT 15.000 288.044 Td /F2 12.0 Tf  [(6.)] TJ ET
+BT 25.008 288.044 Td /F1 12.0 Tf  [( ...)] TJ ET
+BT 15.000 258.992 Td /F2 12.0 Tf  [(Ante grandes problemas grandes soluciones)] TJ ET
+BT 271.740 258.992 Td /F1 12.0 Tf  [(: Hoy en dÌa, existe un modo de evitar estos problemas: )] TJ ET
+BT 15.000 244.340 Td /F2 12.0 Tf  [(la prevenciÛn)] TJ ET
+BT 92.364 244.340 Td /F1 12.0 Tf  [(. Para esta prevenciÛn se utilizan tÈcnicas y metodologÌas de )] TJ ET
+BT 421.188 244.340 Td /F1 12.0 Tf  [(Pentesting)] TJ ET
+0.24 w 0 J [  ] 0 d
+421.188 242.806 m 477.888 242.806 l S
+BT 477.888 244.340 Td /F1 12.0 Tf  [(. Es una )] TJ ET
+BT 15.000 229.688 Td /F1 12.0 Tf  [(abreviatura de las palabras inglesas )] TJ ET
+BT 210.420 229.688 Td /F3 12.0 Tf  [(penetration)] TJ ET
+BT 270.456 229.688 Td /F1 12.0 Tf  [( y )] TJ ET
+BT 283.128 229.688 Td /F3 12.0 Tf  [(testing)] TJ ET
+BT 318.480 229.688 Td /F1 12.0 Tf  [(. Se refiere a la pr·ctica de atacar diversos )] TJ ET
+BT 15.000 215.036 Td /F1 12.0 Tf  [(entornos con la intenciÛn de descubrir errores, vulnerabilidades u otros fallos de seguridad, para asÌ )] TJ ET
+BT 15.000 200.384 Td /F1 12.0 Tf  [(poder prevenir ataques externos hacia esos equipos o sistemas. Es una rama de estudio relativamente )] TJ ET
+BT 15.000 185.732 Td /F1 12.0 Tf  [(reciente y en auge \(sobrevenido por los importantes ataques y filtraciones sufridos por varias empresas )] TJ ET
+BT 15.000 171.080 Td /F1 12.0 Tf  [(importantes durante los ˙ltimos aÒos\).)] TJ ET
+BT 15.000 142.028 Td /F2 12.0 Tf  [(Herramientas ˙tiles)] TJ ET
+0.24 w 0 J [  ] 0 d
+15.000 140.123 m 126.372 140.123 l S
+BT 126.372 142.028 Td /F1 12.0 Tf  [(:)] TJ ET
+BT 15.000 127.376 Td /F2 12.0 Tf  [(1.-)] TJ ET
+BT 29.004 127.376 Td /F1 12.0 Tf  [( Wireshark: Herramienta gratuita y multiplataforma con interfaz gr·fica para el an·lisis de red. )] TJ ET
+BT 529.176 127.376 Td /F1 12.0 Tf  [(Enlace )] TJ ET
+0.24 w 0 J [  ] 0 d
+529.176 125.842 m 569.196 125.842 l S
+BT 15.000 112.724 Td /F1 12.0 Tf  [(de descarga)] TJ ET
+0.24 w 0 J [  ] 0 d
+15.000 111.190 m 81.036 111.190 l S
+BT 15.000 98.072 Td /F2 12.0 Tf  [(2.-)] TJ ET
+BT 29.004 98.072 Td /F1 12.0 Tf  [( Advanced Port Scanner: Explorador de redes gratuito que permite encontrar con rapidez los puertos )] TJ ET
+BT 15.000 83.420 Td /F1 12.0 Tf  [(abiertos de los equipos conectados a la red e identificar las versiones de los programas que se est·n )] TJ ET
+BT 15.000 68.768 Td /F1 12.0 Tf  [(ejecutando en los puertos detectados. El programa cuenta con una interfaz muy intuitiva y una gran )] TJ ET
+BT 15.000 54.116 Td /F1 12.0 Tf  [(variedad de funcionalidades. )] TJ ET
+BT 171.084 54.116 Td /F1 12.0 Tf  [(Enlace de descarga)] TJ ET
+0.24 w 0 J [  ] 0 d
+171.084 52.582 m 277.140 52.582 l S
+BT 15.000 39.464 Td /F2 12.0 Tf  [(3.-)] TJ ET
+BT 29.004 39.464 Td /F1 12.0 Tf  [( ...)] TJ ET
+endstream
+endobj
+17 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 18 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 427.1760 492.0624 455.8440 504.2724 ]
+>>
+endobj
+18 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://www.linuxadictos.com/que-es-script.html)
+>>
+endobj
+19 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 20 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 15.0000 477.4104 69.0120 489.6204 ]
+>>
+endobj
+20 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Qu√©_es_JavaScript)
+>>
+endobj
+21 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 22 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 276.4680 316.2384 325.8120 328.4484 ]
+>>
+endobj
+22 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://softwarelab.org/es/que-es-phishing/)
+>>
+endobj
+23 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 24 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 421.1880 243.2304 477.8880 255.4404 ]
+>>
+endobj
+24 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://www.youtube.com/watch?v=KBSgO8WpTsY)
+>>
+endobj
+25 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 26 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 529.1760 126.2664 569.1960 138.4764 ]
+>>
+endobj
+26 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://www.wireshark.org/download.html)
+>>
+endobj
+27 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 28 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 15.0000 111.6144 81.0360 123.8244 ]
+>>
+endobj
+28 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://www.wireshark.org/download.html)
+>>
+endobj
+29 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 30 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 171.0840 53.0064 277.1400 65.2164 ]
+>>
+endobj
+30 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://www.advanced-port-scanner.com/es/#:~:text=Advanced Port Scanner es un,ejecutando en los puertos detectados.)
+>>
+endobj
+31 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 34 0 R 36 0 R 38 0 R 40 0 R ]
+/Contents 32 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 1992 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+0.24 w 0 J [  ] 0 d
+BT 15.000 830.168 Td /F1 12.0 Tf  [(Recuerda que nadie estamos a salvo de un ataque digital pero tenemos que procurar prevenir lo )] TJ ET
+BT 531.924 830.168 Td /F1 12.0 Tf  [(m·ximo )] TJ ET
+BT 15.000 815.516 Td /F1 12.0 Tf  [(posible para reducir la probabilidad al mÌnimo.)] TJ ET
+0.953 0.576 0.224 rg
+BT 15.000 770.504 Td /F2 12.0 Tf  [(#HASHTAGS )] TJ ET
+BT 92.340 770.504 Td /F4 12.0 Tf  [( \(etiquetas de ayuda para b˙squeda de informaciÛn relevante\))] TJ ET
+0.000 0.000 0.000 rg
+BT 15.000 739.892 Td /F1 12.0 Tf  [(#seguridad-inform·tica #pentesting #tipos-de-ataques-inform·ticos)] TJ ET
+0.953 0.576 0.224 rg
+BT 15.000 709.280 Td /F2 12.0 Tf  [(LINKS DE INTER…S)] TJ ET
+0.000 0.000 0.000 rg
+BT 15.000 678.668 Td /F1 12.0 Tf  [(https://www.youtube.com/watch?v=gwEq0-ACUr8)] TJ ET
+0.24 w 0 J [  ] 0 d
+15.000 677.134 m 280.092 677.134 l S
+BT 15.000 664.016 Td /F1 12.0 Tf  [(https://www.youtube.com/watch?v=Fj9TwMTxGuc)] TJ ET
+0.24 w 0 J [  ] 0 d
+15.000 662.482 m 281.412 662.482 l S
+BT 15.000 649.364 Td /F1 12.0 Tf  [(https://www.youtube.com/watch?v=c8XS1CB_nUg)] TJ ET
+0.24 w 0 J [  ] 0 d
+15.000 647.830 m 284.112 647.830 l S
+BT 15.000 634.712 Td /F1 12.0 Tf  [(https://www.youtube.com/watch?v=JDHdW9kof4w)] TJ ET
+0.24 w 0 J [  ] 0 d
+15.000 633.178 m 282.756 633.178 l S
+0.953 0.576 0.224 rg
+BT 15.000 604.100 Td /F2 12.0 Tf  [(DICCIONARIO)] TJ ET
+0.000 0.000 0.000 rg
+BT 15.000 573.488 Td /F1 12.0 Tf  [(Pentesting | XSS | InyecciÛn SQL | Ataque inform·tico | Ataque DDoS | IngenierÌa social | hacker | )] TJ ET
+BT 15.000 558.836 Td /F1 12.0 Tf  [(cracker | Man-in-the-middle | Phising)] TJ ET
+0.953 0.576 0.224 rg
+BT 15.000 528.224 Td /F2 12.0 Tf  [(PUNTUACI”N)] TJ ET
+0.000 0.000 0.000 rg
+BT 15.000 497.612 Td /F1 12.0 Tf  [(ProgramaciÛn: 2)] TJ ET
+BT 15.000 482.960 Td /F1 12.0 Tf  [(Redes: 2)] TJ ET
+BT 15.000 468.308 Td /F1 12.0 Tf  [(Seguridad: 6)] TJ ET
+BT 15.000 453.656 Td /F1 12.0 Tf  [(Algoritmia: 2)] TJ ET
+endstream
+endobj
+33 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F4
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+>>
+endobj
+34 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 35 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 15.0000 677.5584 280.0920 689.7684 ]
+>>
+endobj
+35 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://www.youtube.com/watch?v=gwEq0-ACUr8)
+>>
+endobj
+36 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 37 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 15.0000 662.9064 281.4120 675.1164 ]
+>>
+endobj
+37 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://www.youtube.com/watch?v=Fj9TwMTxGuc)
+>>
+endobj
+38 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 39 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 15.0000 648.2544 284.1120 660.4644 ]
+>>
+endobj
+39 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://www.youtube.com/watch?v=c8XS1CB_nUg)
+>>
+endobj
+40 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 41 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 15.0000 633.6024 282.7560 645.8124 ]
+>>
+endobj
+41 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://www.youtube.com/watch?v=JDHdW9kof4w)
+>>
+endobj
+xref
+0 42
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000357 00000 n 
+0000000394 00000 n 
+0000000826 00000 n 
+0000000908 00000 n 
+0000007164 00000 n 
+0000007271 00000 n 
+0000007383 00000 n 
+0000007499 00000 n 
+0000008615 00000 n 
+0000008939 00000 n 
+0000009065 00000 n 
+0000009187 00000 n 
+0000009313 00000 n 
+0000018028 00000 n 
+0000018156 00000 n 
+0000018255 00000 n 
+0000018381 00000 n 
+0000018518 00000 n 
+0000018646 00000 n 
+0000018741 00000 n 
+0000018869 00000 n 
+0000018964 00000 n 
+0000019092 00000 n 
+0000019183 00000 n 
+0000019309 00000 n 
+0000019400 00000 n 
+0000019526 00000 n 
+0000019693 00000 n 
+0000019798 00000 n 
+0000021843 00000 n 
+0000021963 00000 n 
+0000022090 00000 n 
+0000022185 00000 n 
+0000022312 00000 n 
+0000022407 00000 n 
+0000022534 00000 n 
+0000022629 00000 n 
+0000022756 00000 n 
+trailer
+<<
+/Size 42
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+22851
+%%EOF
