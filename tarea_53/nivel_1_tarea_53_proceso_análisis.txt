@@ -1,0 +1,26 @@
+Ser metódico en el estudio de los datos nos ayudará a conseguir avances significativos en relativamente
+poco tiempo. La metodología de trabajo común en este tipo de estudios estadísticos suele ser el
+siguiente (Fuente: Wikipedia):
+1.- Planteamiento del problema: un problema de inferencia estadística suele iniciarse con una fijación
+de objetivos o algunas preguntas del tipo:
+¿Cuál será la media de esta población respecto a tal característica?
+¿Se parecen estas dos poblaciones?
+¿Hay alguna relación entre...?
+En el planteamiento se definen con precisión la población, la característica a estudiar, las variables, etc.
+2.- Elaboración de un modelo: en caso de establecer un modelo teórico, se replantea el procedimiento
+y se llega a una conclusión lógica. Los posibles modelos son distribuciones de probabilidad.
+3.- Extracción de la muestra: se usa alguna técnica de muestreo o un diseño experimental para obtener
+información de una pequeña parte de la población.
+4.- Tratamiento de los datos: en esta fase se eliminan posibles errores, se depura la muestra, se
+tabulan los datos y se calculan los valores que serán necesarios en pasos posteriores, como la media
+muestral, la varianza muestral.
+Los métodos de esta etapa están definidos por la estadística descriptiva.
+5.- Estimación de los parámetros: con determinadas técnicas se realiza una predicción sobre cuáles
+podrían ser los parámetros de la población.
+6.- Contraste de hipótesis: los contrastes de hipótesis son técnicas que permiten simplificar el modelo
+matemático bajo análisis. Frecuentemente el contraste de hipótesis recurre al uso de estadísticos
+muestrales.
+7.- Conclusiones: se critica el modelo y se hace un balance. Las conclusiones obtenidas en este punto
+pueden servir para tomar decisiones o hacer predicciones.
+El estudio puede comenzar de nuevo a partir de este momento, en un proceso cíclico que permite
+conocer cada vez mejor la población y características de estudio.

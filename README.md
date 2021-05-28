@@ -26,6 +26,7 @@ Mi trabajo en la escuela de IA semipresencial y sin profesores "TheEgg"
 * [tarea_46](tarea_46)
 * [tarea_51](tarea_51)
 * [tarea_52: Estructuras de datos](tarea_52)
+* [tarea_53: Estadística inferencial para novatos](tarea_53)
 * [tarea_55: Línea de comandos en Linux... o Windows](tarea_55)
 
 ## Recursos

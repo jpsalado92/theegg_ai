@@ -103,7 +103,7 @@ V;101;54;pentesting;Proceso de exploración de vulnerabilidades de un sistema me
 V;102;54;ciberseguridad;Campo de la informática que estudia la vulnerabilidad de sistemas informáticos.
 V;103;54;ransomware;Software diseñado con el fin de restringir la accesibilidad de un individuo a servicios informáticos o información almacenada en ellos, posibilitando el chantaje del atacante a la víctima para su recuperación.
 V;104;54;phising;Ataque caracterizado por la suplantación de identidad, ganándose la confianza de la víctima para efectuar un robo de credenciales, datos, dinero, etc.
-V;105;54;spyware;El programa espía​ es un malware que recopila información de una computadora y después transmite esta información a una entidad externa sin el conocimiento o el consentimiento del propietario del computador.
+V;105;54;spyware;El programa espía es un malware que recopila información de una computadora y después transmite esta información a una entidad externa sin el conocimiento o el consentimiento del propietario del computador.
 V;106;54;troyano;Ataque caracterizado por la intrusión de un atacante en un sistema mediante un software aparentemente legítimo.
 V;107;37;dirección-IP;Secuencia de 32 bits que define un dispositivo en una red. Toda IP pertenece a un conjunto definido por una máscara.
 V;108;37;internet;Conjunto de dispositivos interconectados entre sí en una red a escala mundial, que permiten el tráfico controlado de información entre ellos.
@@ -128,7 +128,17 @@ V;126;52;lista-enlazada;Estructura de datos almacenados de manera desordenada en
 V;127;52;grafo;Estructura de datos idónea para representar relaciones entre entidades.
 V;128;52;colas;Estructura de datos FIFO, el primero que entra es el primero que sale.
 V;129;52;pilas;Estructura de datos LIFO, el último que entra es el primero que sale.
-V;130;52;árboles;Estructura de datos idónea para la búsqueda. Todos los grafos son árboles, pero no todos los árboles son grafos. Grafos en los que para cada par de nodos solo existe un camino.
+V;130;52;árboles;Estructura de datos idónea para la búsqueda. Todos los grafos son árboles, pero no todos los árboles son grafos. Grafos en los que para cada par de nodos solo existe un camino.
 V;131;36;bases-de-datos;072
 V;132;36;SQL;017
 V;133;36;NoSQL;060
+V;134;53;estadística-inferencial;070
+V;135;53;variable;En matemáticas y en lógica, una variable es un símbolo constituyente de un predicado, fórmula, algoritmo o de una proposición. El término «variable» se utiliza aun fuera del ámbito matemático para designar una cantidad susceptible de tomar distintos valores numéricos dentro de un conjunto de números especificado.
+V;136;53;predicción;Estimación de los valores futuros de una variable en base a ciertos criterios y contextos.
+V;137;53;muestra;Subconjunto de una población objeto de estudio de la estadística inferencial.
+V;138;53;estimación;Estimación de los valores de una variable en base a ciertos criterios y contextos.
+V;139;53;hipótesis;Enunciado no verificado, que se intenta confirmar o refutar. Si es confirmada, la hipótesis se denomina enunciado verificado. La hipótesis es una conjetura que requiere una contrastación con la experiencia. Para ella no son suficientes los argumentos persuasivos, por más elaborados que sean.
+V;140;53;varianza;La varianza es una medida de dispersión que representa la variabilidad de una serie de datos respecto a su media. Formalmente se calcula como la suma de los residuos al cuadrado divididos entre el total de observaciones. También se puede calcular como la desviación típica al cuadrado.
+V;141;53;correlación;En probabilidad y estadística, la correlación indica la fuerza y la dirección de una relación lineal y proporcionalidad entre dos variables estadísticas.
+V;142;53;pvalor;En estadística general y contrastes de hipótesis, el valor p se define como la probabilidad de que un valor estadístico calculado sea posible dada una hipótesis nula cierta. Cuanto más pequeño es el valor de p, más fiable es el resultado del estudio. Generalmente, el umbral de este valor se toma en 0,05.
+V;143;53;distribución-normal;En estadística y probabilidad se llama distribución normal, distribución de Gauss, distribución gaussiana o distribución de Laplace-Gauss, a una de las distribuciones de probabilidad de variable continua que con más frecuencia aparece en estadística y en la teoría de probabilidades. La gráfica de su función de densidad tiene una forma acampanada y es simétrica respecto de un determinado parámetro estadístico. Esta curva se conoce como campana de Gauss y es el gráfico de una función gaussiana. La importancia de esta distribución radica en que permite modelar numerosos fenómenos naturales, sociales y psicológicos. Mientras que los mecanismos que subyacen a gran parte de este tipo de fenómenos son desconocidos, por la enorme cantidad de variables incontrolables que en ellos intervienen, el uso del modelo normal puede justificarse asumiendo que cada observación se obtiene como la suma de unas pocas causas independientes.
