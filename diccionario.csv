@@ -129,3 +129,6 @@ V;127;52;grafo;Estructura de datos idónea para representar relaciones entre ent
 V;128;52;colas;Estructura de datos FIFO, el primero que entra es el primero que sale.
 V;129;52;pilas;Estructura de datos LIFO, el último que entra es el primero que sale.
 V;130;52;árboles;Estructura de datos idónea para la búsqueda. Todos los grafos son árboles, pero no todos los árboles son grafos. Grafos en los que para cada par de nodos solo existe un camino.
+V;131;36;bases-de-datos;072
+V;132;36;SQL;017
+V;133;36;NoSQL;060

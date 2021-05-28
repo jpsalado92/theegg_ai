@@ -19,6 +19,7 @@ Mi trabajo en la escuela de IA semipresencial y sin profesores "TheEgg"
 * [tarea_31](tarea_31)
 * [tarea_33](tarea_33)
 * [tarea_34](tarea_34)
+* [tarea_36: Introducción a las bases de datos](tarea_36)
 * [tarea_37](tarea_37)
 * [tarea_41: Tu primera expresión regular](tarea_41)
 * [tarea_43](tarea_43)
