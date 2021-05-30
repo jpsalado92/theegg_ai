@@ -37,7 +37,7 @@ def subtask1():
     print(f"Lista de números añadidos: {input_list}")
 
     input_val = input("Inserta un número, si el número está en la lista, se borrará la primera ocurrencia")
-    if input_val in input_list:
+    if float(input_val) in input_list:
         input_list.remove(float(input_val))
         print(f"Lista de números: {input_list}")
     else:
@@ -82,13 +82,17 @@ def subtask2():
                 continue
             else:
                 break
-        return set(name_list)
+        return name_list
 
-    primaria_set = get_names("Inserta los nombres de pila de primaria")
-    secundaria_set = get_names("Inserta los nombres de pila de secundaria")
-    print(f"Alumnos en primaria: {primaria_set}")
-    print(f"Alumnos en secundaria: {secundaria_set}")
-    print(f"Alumnos en ambos cursos: {primaria_set.union(secundaria_set)}")
+    alumnos_primaria = get_names("Inserta los nombres de pila de primaria")
+    alumnos_secundaria = get_names("Inserta los nombres de pila de secundaria")
+    alumnos_primaria_set = set(alumnos_primaria)
+    alumnos_secundaria_set = set(alumnos_secundaria)
+    print(f"Alumnos en primaria: {alumnos_primaria}")
+    print(f"Alumnos en primaria, sin repeticiones: {alumnos_primaria_set}")
+    print(f"Alumnos en secundaria: {alumnos_secundaria}")
+    print(f"Alumnos en primaria, sin repeticiones: {alumnos_secundaria_set}")
+    print(f"Alumnos en ambos cursos, sin repeticiones: {alumnos_primaria_set.union(alumnos_secundaria_set)}")
 
 
 if __name__ == "__main__":
