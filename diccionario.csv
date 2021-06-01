@@ -152,3 +152,13 @@ V;150;40;hacker;Persona capaz de introducirse en sistemas informáticos ajenos p
 V;151;40;cracker;Persona capaz de introducirse en sistemas informáticos ajenos pero con fines ilícitos.
 V;152;40;Man-in-the-middle;Ataque en el cual un tercero obtiene acceso al mensaje enviado entre dos extremos.
 V;153;40;Phising;104
+V;154;49;OOP: Clase;Definiciones de las propiedades y comportamiento de un tipo de objeto concreto.
+V;155;49;OOP: Objeto;Instancia de una clase. Entidad provista de un conjunto de propiedades o atributos (datos) y de comportamiento o funcionalidad (métodos).
+V;156;49;OOP: Método;Algoritmo asociado a un objeto con capacidad de alterar el estado del mismo o de un sistema.
+V;157;49;OOP: Atributo;Características pertenecientes a una clase.
+V;158;49;OOP: Instancia;Se denomina instancia al resultado de referenciar una clase (plantilla) para la creación de un objeto.
+V;159;49;OOP: Constructor;Metodo que le da el estado inicial a una clase.
+V;160;49;OOP: Instancia;158
+V;161;49;OOP: Encapsulamiento;Propiedad que brinda la capacidad a un objeto de ocultar su estado, de manera que sus datos solo se puedan modificar por medio de las operaciones que ofrece.
+V;162;49;OOP: Herencia;Propiedad que permite crear una clase partiendo de lo definido en otra.
+F;163;49;Programación Orientada a Objetos;Paradigma de programación que usa objetos y sus interacciones para diseñar software, caracterizado por sus capacidades de herencia, modularidad, polimorfismo y encapsulamiento.
