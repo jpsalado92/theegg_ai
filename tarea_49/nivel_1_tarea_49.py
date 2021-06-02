@@ -1,20 +1,47 @@
+"""
+# Solución de tarea_49
+# Autor: Juan Pablo Salado
+# Fecha creación: 2021-06-01
+# Fecha última modificación: 2021-06-02
+
+# Tareas:
+1.- Crear una clase llamada Persona. Sus atributos son: nombre, edad y DNI. Construye los siguientes
+    métodos para la clase:
+    . Un constructor, donde los datos pueden estar vacíos.
+    . Los setters y getters (métodos set y get) para cada uno de los atributos. Hay que validar las entradas de
+    datos.
+    . mostrar(): muestra los datos de la persona.
+    . esMayorDeEdad(): devuelve un valor lógico indicando si es mayor de edad.
+
+2.- Crea una clase llamada Cuenta que tendrá los siguientes atributos:
+    . titular (que es una persona)
+    . cantidad (puede tener decimales).
+    El titular será obligatorio y la cantidad es opcional. Construye los siguientes métodos para la clase:
+    . Un constructor, donde los datos pueden estar vacíos.
+    . Los setters y getters para cada uno de los atributos. El atributo no se puede modificar directamente, sólo
+    ingresando o retirando dinero.
+    . mostrar(): muestra los datos de la cuenta.
+    . ingresar(cantidad): se ingresa una cantidad a la cuenta, si la cantidad introducida es negativa, no se
+    hará nada.
+    . retirar(cantidad): se retira una cantidad a la cuenta. La cuenta puede estar en números rojos.
+"""
 import re
 
 
 class Persona:
-    __tabla_control = {0: 'T', 1: 'R', 2: 'W', 3: 'A', 4: 'G', 5: 'M', 6: 'Y', 7: 'F', 8: 'P',
-                       9: 'D', 10: 'X', 11: 'B', 12: 'N', 13: 'J', 14: 'Z', 15: 'S', 16: 'Q', 17: 'V',
-                       18: 'H', 19: 'L', 20: 'C', 21: 'K', 22: 'E'}
+    __tabla_control_dni = {0: 'T', 1: 'R', 2: 'W', 3: 'A', 4: 'G', 5: 'M', 6: 'Y', 7: 'F', 8: 'P',
+                           9: 'D', 10: 'X', 11: 'B', 12: 'N', 13: 'J', 14: 'Z', 15: 'S', 16: 'Q', 17: 'V',
+                           18: 'H', 19: 'L', 20: 'C', 21: 'K', 22: 'E'}
 
     def __init__(self, nombre: str = None, edad: int = None, dni: str = None):
-        self.set_nombre(nombre)
-        self.set_edad(edad)
-        self.set_dni(dni)
+        self.__nombre = nombre
+        self.__edad = edad
+        self.__dni = dni
 
     def set_nombre(self, nombre: str):
         """ Fija el nombre validado de la instancia """
-        # Forzar formato string
         try:
+            # Forzar formato string
             nombre = str(nombre)
         except:
             raise ValueError()
@@ -22,7 +49,6 @@ class Persona:
         # Comprobar longitudes excesivas
         if len(nombre) > 50:
             raise ValueError("El nombre introducido es demasiado largo.")
-            return
 
         # Asignar nombre válido
         self.__nombre = nombre
@@ -33,8 +59,8 @@ class Persona:
 
     def set_edad(self, edad: int):
         """ Fija la edad validada de la instancia """
-        # Forzar formato entero
         try:
+            # Forzar formato entero
             edad = int(edad)
         except:
             raise ValueError
@@ -42,12 +68,10 @@ class Persona:
         # La edad ha de ser un valor mayor o igual a cero
         if edad < 0:
             raise ValueError("La edad ha de ser mayor o igual a 0.")
-            return
 
         # La edad ha de ser un valor mayor o igual a cero
         if edad >= 150:
             raise ValueError("La edad ha de ser menor que 150.")
-            return
 
         # Asignar edad válida
         self.__edad = edad
@@ -67,12 +91,10 @@ class Persona:
         # Comprobar longitud y forma del DNI
         if not re.match('^[0-9]{8}[A-Za-z]$', dni):
             raise ValueError("Formato de DNI no válido.")
-            return
 
         # Comprobar si se trata de un DNI válido a través del dígito de control
-        if self.__tabla_control[int(dni[0:8]) % 23] != dni[-1].upper():
+        if self.__tabla_control_dni[int(dni[0:8]) % 23] != dni[-1].upper():
             raise ValueError("DNI no válido según carácter de control.")
-            return
 
         # Asignar DNI válido
         self.__dni = dni.upper()
@@ -93,7 +115,7 @@ def validar_cantidad(cantidad):
     """ Validad la cantidad a retirar o ingresar """
     # Forzar formato float
     try:
-        edad = float(cantidad)
+        cantidad = float(cantidad)
     except:
         raise ValueError
 
@@ -105,9 +127,9 @@ def validar_cantidad(cantidad):
 
 
 class Cuenta:
-    def __init__(self, titular, cantidad: float = 0.0):
-        self.__set_titular(titular)
-        self.__set_cantidad(cantidad)
+    def __init__(self, titular):
+        self.__titular = titular
+        self.__cantidad = 0.0
 
     def get_titular(self):
         """Devuelve el atributo titular de la clase instanciada"""
@@ -128,7 +150,6 @@ class Cuenta:
         # Comprobar longitudes excesivas
         if len(titular) > 50:
             raise ValueError("El nombre introducido es demasiado largo.")
-            return
 
         # Asignar nombre válido
         self.__titular = titular
