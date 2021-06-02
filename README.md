@@ -35,3 +35,7 @@ Mi trabajo en la escuela de IA semipresencial y sin profesores "TheEgg"
 ## Recursos
 
 [Diccionario](diccionario.csv)
+
+## Dependencias
+* Este proyecto corre bajo `Python 3.9`.
+* Los módulos necesarios para su correcto funcionamiento se encuentran en [requirements.txt](requirements.txt)
