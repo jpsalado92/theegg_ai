@@ -1,4 +1,4 @@
-﻿igatorio;id_dict;id_tarea;término;def_término
+﻿igatorio,id_dict,id_tarea,término,def_término
 "V","001","11","turing","Alan Turing fue un matemático considerado hoy en día como uno de los padres de la computación y precursor de la informática moderna. Es conocido por crear el concepto de ""máquina de turing"" que permite juzgar si la inteligencia de una máquina es equiparable a la de un ser humano."
 "V","002","11","programación","Capacidad de gestionar tareas en el tiempo de manera sistemática. En el argot informático, hace refencia a la acción de escribir código en un lenguaje diseñado para que un ordenador ejecute una serie de instrucciones."
 "V","003","11","inteligencia-artificial","Es la capacidad de una máquina de realizar tareas similares a las de un ser humano."
