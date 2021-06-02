@@ -1,5 +1,5 @@
 ﻿obligatorio;id_dict;id_tarea;término;def_término
-V;001;11;turing;"Alan Turing fue un matemático considerado hoy en día como uno de los padres de la computación y precursor de la informática moderna. Es conocido por crear el concepto de ""máquina de turing"" que permite juzgar si la inteligencia de una máquina es equiparable a la de un ser humano."
+V;001;11;turing;Alan Turing fue un matemático considerado hoy en día como uno de los padres de la computación y precursor de la informática moderna. Es conocido por crear el concepto de `máquina de turing` que permite juzgar si la inteligencia de una máquina es equiparable a la de un ser humano.
 V;002;11;programación;Capacidad de gestionar tareas en el tiempo de manera sistemática. En el argot informático, hace refencia a la acción de escribir código en un lenguaje diseñado para que un ordenador ejecute una serie de instrucciones.
 V;003;11;inteligencia-artificial;Es la capacidad de una máquina de realizar tareas similares a las de un ser humano.
 V;004;12;transistor;Es un dispositivo electrónico capaz de regular el paso de corriente en base a un impulso externo.
@@ -36,7 +36,7 @@ V;034;17;Java;024
 V;035;17;html;Lenguaje de marcado para la elaboración de páginas web.
 V;036;17;CSS;Lenguaje de diseño gráfico orientaod a la creación de páginas web.
 V;037;17;R;022
-V;038;17;SQL;"Significa ""Structured Query Language"", y es un lenguaje que permite la gestión de bases de datos."
+V;038;17;SQL;Significa `Structured Query Language`, y es un lenguaje que permite la gestión de bases de datos.
 V;039;21;Algoritmo;Secuencia de instrucciones aplicadas sobre un estado inicial para llegar a otro estado.
 V;040;21;Diagrama-de-flujo;Conjunto de reglas que regulan la ejecución de un algoritmo.
 V;041;22;ada-lovelace;Matemática y escritora británica nacida en 1815 a la que se le atribuye la creación del primer programa de ordenador.
@@ -46,7 +46,7 @@ F;044;22;programación-dinámica;método para reducir el tiempo de ejecución de
 V;045;23;algoritmo-de-cifrado-simétrico;Tipo de algoritmo de cifrado que utiliza una clave previamente conocida por los dos extremos del canal de información.
 V;046;23;algoritmo-de-cifrado-asimétrico;Tipo de algoritmo de cifrado que utiliza una clave pública, mediante la cual se encripta la información, y otra privada, que desencripta esa información.
 V;047;23;funciones-en-programación;Unidades de abstracción lógicas que funcionan como una unidad de procesamiento. Generalmente en base a unos parámetros (input) ejecuta una serie de instrucciones (output).
-V;048;24;convertidor-analógico-digital;"Mecanismo que transforma señales continuas analógicas en señales discontinuas digitales (""0"", ""1""), mediante el uso de puertas lógicas."
+V;048;24;convertidor-analógico-digital;Mecanismo que transforma señales continuas analógicas en señales discontinuas digitales (`0`, `1`), mediante el uso de puertas lógicas.
 V;049;24;transistores-bipolares;012
 V;050;24;frecuencia-de-muestreo;La tasa o frecuencia de muestreo es el número de muestras por unidad de tiempo que se toman de una señal continua para producir una señal discreta, durante el proceso necesario para convertirla de analógica en digital.
 V;051;24;sistema-binario;Lenguaje compuesto por unos y ceros utilizado en la programación de lenguaje máquina en ordenadores.
@@ -68,7 +68,7 @@ V;066;46;análisis-exploratorio;El análisis exploratorio de datos se refiere al
 V;067;46;dato-estructurado;Datos organizados por registros en filas y dimensiones, atributos, o variablaes en columnas, de manera ordenada.
 V;068;46;dato-semiestructurado;Datos que tienen características asociadas ordenables, pero que requieren un leve procesamiento para consolidarlos en una base de datos.
 V;069;46;dato-noestructurado;Datos sin homogeneizar que a priori no comparten atributos por los cuales clasificarlos en un estudio consolidado.
-F;070;46;estadística-inferencial;"Parte de la estadística dedicada a la elaboración de conclusiones en base al estudio de un subconjunto denominado ""muestra"" de una población."
+F;070;46;estadística-inferencial;Parte de la estadística dedicada a la elaboración de conclusiones en base al estudio de un subconjunto denominado `muestra` de una población.
 V;071;31;ETL;Extacción Transformación y Carga. Proceso que abarca la colección de datos de distintas fuentes, su transformación de cara a un objetivo y su almacenamiento para su posterior aprovechamiento.
 V;072;31;bases-de-datos;Software dedicado al almacenamiento de grandes cantidades de datos, permitiendo su consulta posterior mediante instrucciones estructuradas.
 V;073;31;data-preprocessing;Parte del ciclo de vida del dato en el cual se prepara un conjunto de datos para su explotación.
