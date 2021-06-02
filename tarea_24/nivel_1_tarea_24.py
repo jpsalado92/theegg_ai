@@ -1,19 +1,22 @@
 """
 # Solución de tarea_24
 # Autor: Juan Pablo Salado
-# Realizado: 2021-05-12
+# Fecha creación: 2021-05-12
+# Fecha última revisión: 2021-06-20
 
 # Tarea: Desarrollar un programa donde una vez enviado un valor decimal a una función este lo convierta a binario
- y nos lo devuelva.
+y nos lo devuelva.
 """
 
 
-def convertidor_digital(acu: int) -> str:
+def convertidor_digital(num: int) -> str:
     """
-    Función que convierte valores decimales en binario.
+    Función que convierte valores decimales a binario.
     :param acu: Número decimal a convertir.
     :return: Número binario en formato string
     """
+    acu = abs(num)
+
     # Manejar valor 0
     if acu == 0:
         return '0'
@@ -30,4 +33,4 @@ def convertidor_digital(acu: int) -> str:
 
 
 if __name__ == "__main__":
-    print(convertidor_digital(4815162342))
+    pass
