@@ -38,10 +38,10 @@ if __name__ == "__main__":
     # Tarea 1: Informar los nombres de todos los alumnos de nivel primario y los de nivel secundario, sin repeticiones.
     print(f"Nombres en primaria, sin repeticiones: {set_alumnos_primaria}")
     print(f"Nombres en secundaria, sin repeticiones: {set_alumnos_secundaria}")
-    print(f"Nombres en ambos cursos, sin repeticiones: {set_alumnos_primaria.union(set_alumnos_secundaria)}")
+    print(f"Nombres en ambos cursos, sin repeticiones: {set_alumnos_primaria | set_alumnos_secundaria}")
 
     # Tarea 2: Informar qué nombres se repiten entre los alumnos de nivel primario y secundario.
-    print(f"Nombres repetidos en ambos cursos: {set_alumnos_primaria.intersection(set_alumnos_secundaria)}")
+    print(f"Nombres repetidos en ambos cursos: {set_alumnos_primaria & set_alumnos_secundaria}")
 
     # Tarea 3: Informar qué nombres de nivel primario no se repiten en los de nivel secundario.
-    print(f"Nombres en primaria no repetidos en secundaria: {set_alumnos_primaria.difference(set_alumnos_secundaria)}")
+    print(f"Nombres en primaria no repetidos en secundaria: {set_alumnos_primaria - set_alumnos_secundaria}")
