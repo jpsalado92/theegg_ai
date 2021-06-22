@@ -3,7 +3,7 @@ import unittest
 from tarea_38.nivel_1_tarea_38_1 import get_major_common_substring
 
 
-class MyTestCase(unittest.TestCase):
+class Tarea381TestCase(unittest.TestCase):
 
     def test_get_major_common_substring(self):
         self.assertEqual("CTTCCT", get_major_common_substring("ATGTCTTCCTCGA", "TGCTTCCTATGAC"))

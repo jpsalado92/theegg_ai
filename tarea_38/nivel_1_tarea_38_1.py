@@ -14,7 +14,7 @@ ordenado de bases adyacentes de mayor tamaño que se encuentra en ambas formas d
 """
 
 
-def get_major_common_substring(seq_1: str, seq_2: str):
+def get_major_common_substring(seq_1: str, seq_2: str) -> str:
     """
     Función que calcula la mayor subsecuencia común entre dos strings.
     El cálculo se basa en la programación dinámica, que trata de mantener un tiempo de ejecución lineal a medida que
@@ -71,7 +71,7 @@ def get_major_common_substring(seq_1: str, seq_2: str):
 
     :param seq_1: Secuencia en formato string 1
     :param seq_2: Secuencia en formato string 2
-    :return:
+    :return: Mayor subcadena común
     """
     table = []
     max_row_idx = max_val = 0

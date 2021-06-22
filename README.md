@@ -21,6 +21,7 @@ Mi trabajo en la escuela de IA semipresencial y sin profesores "TheEgg"
 * [tarea_34: ¿Y qué es una API?](tarea_34)
 * [tarea_36: Introducción a las bases de datos](tarea_36)
 * [tarea_37: Empezando con las redes de comunicación](tarea_37)
+* [tarea_38: Resolución de más algoritmos](tarea_38)
 * [tarea_40: La seguridad es importante](tarea_40)
 * [tarea_41: Tu primera expresión regular](tarea_41)
 * [tarea_43: Aprendamos un poco de SQL](tarea_43)
