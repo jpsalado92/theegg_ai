@@ -1,167 +1,170 @@
-﻿obligatorio;id_dict;id_tarea;término;def_término
-V;001;11;turing;"Alan Turing fue un matemático considerado hoy en día como uno de los padres de la computación y precursor de la informática moderna. Es conocido por crear el concepto de ""máquina de turing"" que permite juzgar si la inteligencia de una máquina es equiparable a la de un ser humano."
-V;002;11;programación;Capacidad de gestionar tareas en el tiempo de manera sistemática. En el argot informático, hace refencia a la acción de escribir código en un lenguaje diseñado para que un ordenador ejecute una serie de instrucciones.
-V;003;11;inteligencia-artificial;Es la capacidad de una máquina de realizar tareas similares a las de un ser humano.
-V;004;12;transistor;Es un dispositivo electrónico capaz de regular el paso de corriente en base a un impulso externo.
-V;005;12;ley-de-moore;Ley que afirma que la cantidad de transistores que componen un microprocesador se duplica cada dos años.
-V;006;12;puertas-lógicas;Son dispositios electrónicos con lógica booleana integrada.
-V;007;13;periférico;Componentes externos de un ordenador como el teclado, el ratón y el monitor.
-V;008;13;arquitectura-von-neumann;Arquitectura de computadoras descrita en 1945 por el matemático y físico John Von Neumann. Los ordenadores que siguen esta arquitectura, almacenan los datos y las instrucciones del programa en la misma memoria.
-V;009;13;arquitectura-harvard;Arquitectura de computadoras usada en los años 50 por IBM. Los ordenadores que siguen esta arquitectura, almacenan los datos y las instrucciones del programa en memorias distintas.
-V;010;13;sistema-operativo;Conjunto de instrucciones que gestionan los recursos físicos y virtuales de un ordenador.
-V;011;13;software;Se refiere a conjuntos de instrucciones con un mismo propósito ubicados en un dispositivo de almacenamiento o memoria.
-V;012;13;hardware;Conjunto de componentes físicos que forman parte de un ordenador.
-V;013;13;raspberry-pi;Es un hardware popular por tener un precio muy competitivo y servir como un mini ordenador con grandes opciones de conectividad.
-V;014;13;arduino;Es un hardware popular por tener un precio muy competitivo y servir como un mini ordenador con grandes opciones de procesamiento de señales tanto analógicas como digitales.
-V;015;14;compilador;Software que traduce lenguaje de alto nivel en lenguaje máquina o uno intermedio.
-V;016;14;intérprete;Programa informático capaz de entender y procesar código generalmente de alto nivel.
-V;017;14;lenguaje-de-programación;Abstracción del lenguaje que permite gestionar los recursos que ofrece un ordenador.
-V;018;14;editor-de-código;Programa facilita la escritura de código.
-V;019;14;lenguaje-de-alto-nivel;Lenguaje de programación que permite la escritura de código con lógica y palabras aproximadas al lenguaje humano.
-V;020;14;lenguaje-de-máquina;Lenguaje compuesto por series de señales binarias procesables directamente por los componentes de un ordenador.
-V;021;15;python;Popular lenguaje de programación de alto nivel conocido por su gran abanico de librerías, como por ejemplo, las orientadas a IA.
-V;022;15;R;Popular lenguaje de programación de alto nivel orientado a investigación con fines estadísticos.
-V;023;15;Lisp;Uno de los primeros lenguajes de programación de alto nivel, conocido por basarse en el procesamiento de listas.
-V;024;15;Java;Popular lenguaje de programación de alto nivel conocido por su capacidad de ser integrado en distintas plataformas mediante la Java Virtual Machine.
-V;025;15;lenguaje-de-bajo-nivel;Lenguaje de programación utilizado en los componentes electrónicos que componen un ordenador, de dificil comprensión por el ser humano.
-V;026;15;lenguaje-compilado;Lenguaje que requiere un paso adicional antes de ser ejecutado, la compilación, que convierte el código que escrito a lenguaje de máquina.
-V;027;15;lenguaje-interpretado;Un lenguaje que es convertido a lenguaje de máquina a medida que es ejecutado.
-V;028;16;repositorio-de-control-de-versiones;Es un lugar en el que queda almacenado de manera sistemática los cambios por los que ha pasado un conjunto de archivos.
-V;029;16;github;Proveedor de servicios para la herramienta git, permitiendo utiliar sus servidores para gestionar control de versiones.
-V;030;17;lenguaje-de-programación;017
-V;031;17;javascript;Lenguaje de programación interpretado, popular por su uso para el desarrollo depáginas web.
-V;032;17;python;021
-V;033;17;php;Lenguaje de programación tan popular como odiado orientado a la gestión de servidores y al desarrollo web.
-V;034;17;Java;024
-V;035;17;html;Lenguaje de marcado para la elaboración de páginas web.
-V;036;17;CSS;Lenguaje de diseño gráfico orientaod a la creación de páginas web.
-V;037;17;R;022
-V;038;17;SQL;"Significa ""Structured Query Language"", y es un lenguaje que permite la gestión de bases de datos."
-V;039;21;algoritmo;Secuencia de instrucciones aplicadas sobre un estado inicial para llegar a otro estado.
-V;040;21;Diagrama-de-flujo;Conjunto de reglas que regulan la ejecución de un algoritmo.
-V;041;22;ada-lovelace;Matemática y escritora británica nacida en 1815 a la que se le atribuye la creación del primer programa de ordenador.
-V;042;22;bucles;En programación, sucesión de un conjunto de instrucciones regida por una lógica.
-V;043;22;lenguaje-de-programación;017
-F;044;22;programación-dinámica;método para reducir el tiempo de ejecución de un algoritmo mediante la utilización de subproblemas superpuestos y subestructuras óptimas.
-V;045;23;algoritmo-de-cifrado-simétrico;Tipo de algoritmo de cifrado que utiliza una clave previamente conocida por los dos extremos del canal de información.
-V;046;23;algoritmo-de-cifrado-asimétrico;Tipo de algoritmo de cifrado que utiliza una clave pública, mediante la cual se encripta la información, y otra privada, que desencripta esa información.
-V;047;23;funciones-en-programación;Unidades de abstracción lógicas que funcionan como una unidad de procesamiento. Generalmente en base a unos parámetros (input) ejecuta una serie de instrucciones (output).
-V;048;24;convertidor-analógico-digital;"Mecanismo que transforma señales continuas analógicas en señales discontinuas digitales (""0"", ""1""), mediante el uso de puertas lógicas."
-V;049;24;transistores-bipolares;012
-V;050;24;frecuencia-de-muestreo;La tasa o frecuencia de muestreo es el número de muestras por unidad de tiempo que se toman de una señal continua para producir una señal discreta, durante el proceso necesario para convertirla de analógica en digital.
-V;051;24;sistema-binario;Lenguaje compuesto por unos y ceros utilizado en la programación de lenguaje máquina en ordenadores.
-V;052;24;algebrabooleana;Planteamiento lógico basado en el sistema binario y en el uso de operadores que producen un output en base a distintos inputs.
-V;053;25;arquitectura-cliente-servidor;Sistema por el cual se establece la comunicación entre distintos ordenadores, en el cual el cliente realiza una petición de información y el servidor responde con información relacionada con la petición.
-V;054;25;FTP ;Protocolo de comunicación de red diseñado para la transferencia de archivos entre ordenadores.
-V;055;25;servidor-web;Extremo de comunicación en la arquitectura Cliente-Servidor que se encarga de de gestionar y servir peticiones al cliente.
-V;056;25;IP;Dirección que identifica de manera lógica y univoca una interfaz de red.
-V;057;25;DNS;Servidor web que agrupa los nombres de los dominios y sus correspondientes IPs para facilitar la conexión de los clientes a los servidores.
-V;058;25;protocolo-TCP/IP;Conjunto de protocolos que permiten la comunicación entre los ordenadores pertenecientes a una red.
-F;059;25;bbdd-relacional;Base de datos que se basa en el almacenamiento de datos relacionados mediante identificadores. El uso de un esquema fijo le da gran robustez.
-F;060;25;bbdd-no-relacional;Base de datos que se basa en el almacenamiento de datos en documentos. Evitar usar un esquema fijo, permite que estas bases de datos crezcan y se gestionen más fácilmente.
-F;061;25;MEAN;Stack compuesto por: MongoDB, Express, AngularJS y NodeJS
-F;062;25;LAMP;Stack compuesto por: Linux, ApacheServer, MySQL y PHP
-V;063;33;diagrama-de-flujo;021
-V;064;33;bucles-en-programación;022
-V;065;46;estadística-descriptiva;Parte de la estadística dedicada a la organización, reunión y comunicación de información relacionada con un conjunto de datos.
-V;066;46;análisis-exploratorio;El análisis exploratorio de datos se refiere al proceso crítico de realizar investigaciones iniciales sobre los datos para descubrir patrones, detectar anomalías, probar hipótesis y verificar supuestos con ayuda de la estadística y representaciones gráficas.
-V;067;46;dato-estructurado;Datos organizados por registros en filas y dimensiones, atributos, o variablaes en columnas, de manera ordenada.
-V;068;46;dato-semiestructurado;Datos que tienen características asociadas ordenables, pero que requieren un leve procesamiento para consolidarlos en una base de datos.
-V;069;46;dato-noestructurado;Datos sin homogeneizar que a priori no comparten atributos por los cuales clasificarlos en un estudio consolidado.
-F;070;46;estadística-inferencial;"Parte de la estadística dedicada a la elaboración de conclusiones en base al estudio de un subconjunto denominado ""muestra"" de una población."
-V;071;31;ETL;Extacción Transformación y Carga. Proceso que abarca la colección de datos de distintas fuentes, su transformación de cara a un objetivo y su almacenamiento para su posterior aprovechamiento.
-V;072;31;bases-de-datos;Software dedicado al almacenamiento de grandes cantidades de datos, permitiendo su consulta posterior mediante instrucciones estructuradas.
-V;073;31;data-preprocessing;Parte del ciclo de vida del dato en el cual se prepara un conjunto de datos para su explotación.
-V;074;34;API;Application Programming Interface. Interfaz preparada para la explotación de un desarrollo por terceros.
-V;075;34;JSON;Formato de texto sencillo para el almacenamiento de datos ordenados.
-V;076;34;XML;Formato de texto que permite el almacenamiento de datos mediante lenguaje de marcas.
-V;077;34;protocolo-de-comunicación;Método que permite la comunicación entre dos extremos, siguiendo una lógica fijado por estándar.
-F;078;34;REST;Representational State Transfer.
-V;079;43;SQL;017
-V;080;43;bases-de-datos-relacionales;025
-V;081;43;MySQL;MySQL es un sistema de gestión de bases de datos relacional considerada como la base de datos de código abierto más popular del mundo
-V;082;43;postgreSQL;Sistema de gestión de bases de datos relacionales (RDMS) de código libre.
-V;083;43;MongoDB;Sistema de base de datos NoSQL, orientado a documentos y de código abierto que en lugar de guardar los datos en tablas, tal y como se hace en las bases de datos relacionales, guarda estructuras de datos BSON esquema dinámico, haciendo que la integración de los datos en ciertas aplicaciones sea más fácil y rápida.
-V;084;26;herramientas-de-Business-Intelligence;Elemento auxiliar para la explotación y el análisis de datos.
-V;085;26;calidad-del-dato;Termino usado para definir la explotabilidad de un conjunto ed datos, en la cual influyen su homogeneidad, comparabilidad, formato y estructura.
-V;086;26;análisis-exploratorio;046
-V;087;26;estadística-descriptiva;026
-V;088;26;histograma;Representación gráfica de una variable en forma de barras, donde la superficie de cada barra es proporcional a la frecuencia de los valores representados.
-V;089;26;gráfico-de-barras;Gráfico bidimensional que muestra observaciones en barras que parten desde uno de los ejes.
-V;090;26;gráfico-circular;Gráfico que muestra en un círculo partes de un conjunto por su peso en el mismo.
-V;091;26;gráfico-de-dispersión;Gráfico bidimensional que muestra en un punto cada observación en un conjunto de datos según las dimensiones establecidas.
-V;092;26;gráfico-de-caja-y-bigotes;Gráfico que muestra de manera resumida la distribución (Q1, Q3, mediana, extremos y valores atípicos) seguida por varios conjuntos de datos sobre una misma variable.
-V;093;26;cartograma;Gráfico o diagrama que muestra catacterísticas de un área geográfica de manera ordenada.
-V;094;51;Sistema-Operativo;051
-V;095;51;Linux;GNU/Linux es la denominación técnica y generalizada que reciben una serie de sistemas operativos de tipo Unix, que también suelen ser de código abierto, multiplataforma, multiusuario y multitarea
-V;096;51;CPU;Unidad central de procesamiento. Hardware considerado como el núcleo de un ordenador, posibilita el procesamiento lógico de instrucciones.
-V;097;51;GPU;Unidad de procesamiento de gráficos, especializada en el cálculo de operaciones de coma flotante.
-V;098;51;Periférico;013
-V;099;51;Terminal;Dispositivo informático que puede estar conectado a una red.
-V;100;51;Interfaz;Elemento entre el humano y la máquina que facilita su interacción.
-V;101;54;pentesting;Proceso de exploración de vulnerabilidades de un sistema mediante la simulación de ataques dirigidos.
-V;102;54;ciberseguridad;Campo de la informática que estudia la vulnerabilidad de sistemas informáticos.
-V;103;54;ransomware;Software diseñado con el fin de restringir la accesibilidad de un individuo a servicios informáticos o información almacenada en ellos, posibilitando el chantaje del atacante a la víctima para su recuperación.
-V;104;54;phising;Ataque caracterizado por la suplantación de identidad, ganándose la confianza de la víctima para efectuar un robo de credenciales, datos, dinero, etc.
-V;105;54;spyware;El programa espía es un malware que recopila información de una computadora y después transmite esta información a una entidad externa sin el conocimiento o el consentimiento del propietario del computador.
-V;106;54;troyano;Ataque caracterizado por la intrusión de un atacante en un sistema mediante un software aparentemente legítimo.
-V;107;37;dirección-IP;Secuencia de 32 bits que define un dispositivo en una red. Toda IP pertenece a un conjunto definido por una máscara.
-V;108;37;internet;Conjunto de dispositivos interconectados entre sí en una red a escala mundial, que permiten el tráfico controlado de información entre ellos.
-V;109;37;red-WAN;Red de dispositivos conectada por cable.
-V;110;37;red-LAN;Red de dispositivos conectada inalámbricamente.
-V;111;37;máscara-de-subred;Representación de la fragmentación de una red, analoga al CIDR, que presenta mejoras de procesamiento sobre este.
-V;112;37;router ;Dispositivo de red que permite la comunicación de redes informáticas entre sí, dirigiendo paquetes de datos entre un origen y un destinatario.
-V;113;37;switch;Dispositivo de red que permite la comunicación de dispositivos, pero únicamente dentro de la misma red, bajo la misma ip pública.
-V;114;37;TCP-IP;Transfer Control Protocol. Protocolo…
-V;115;37;IP-pública;Se refiere a la dirección lógica de un dispositivo en internet, de tal manera que otros dispositivos puedan llegar a él.
-V;116;37;IP-privada;Se refiere a la dirección lógica de un dispositivo en una red local, de tal manera los dispositivos de una red local sean identificados y accesibles por otros dispositivos.
-V;117;41;expresiones-regulares;Reglas definidas en una cadena de caracteres que fijan la lógica de búsqueda de elementos en otra cadena de caracteres.
-V;118;41;scrapping;Extracción de datos de páginas web para su posterior análisis o procesamiento.
-V;119;41;procesamiento-del-lenguaje-natural;El Procesamiento del Lenguaje Natural es el campo de conocimiento de la Inteligencia Artificial que se ocupa de la investigar la manera de comunicar las máquinas con las personas mediante el uso de lenguas naturales, como el español, el inglés o el chino.
-V;120;41;crawling;Exploración recursiva en una página web a través de sus hipervínculos.
-F;121;41;parsing;Procesado de una cadena de caracteres siguiene una lógica prefijada.
-V;122;55;línea-de-comandos;Software destinado a la interacción humano-máquina que nos permite ejecutar comandos mediante únicamente el teclado en el sistema operativo.
-V;123;55;consola;122
-V;124;52;estructura-de-datos;Forma en la cual se guarda y estructura la información
-V;125;52;array;Estructura de datos almacenados de manera contigua en la memoria física. Como ventaja, el acceso a cualquiera de los elementos se hace en el mismo intervalo de tiempo, pero puede ser difícil de ubicar en memoria.
-V;126;52;lista-enlazada;Estructura de datos almacenados de manera desordenada en la memoria física. Como ventaja, es fácilmente ubicado en memoria, pero el tiempo de acceso crece según la posición del elemento en la lista, ya que habría que recorrer todos los elementos que la componen hasta llegar a él.
-V;127;52;grafo;Estructura de datos idónea para representar relaciones entre entidades.
-V;128;52;colas;Estructura de datos FIFO, el primero que entra es el primero que sale.
-V;129;52;pilas;Estructura de datos LIFO, el último que entra es el primero que sale.
-V;130;52;árboles;Estructura de datos idónea para la búsqueda. Todos los grafos son árboles, pero no todos los árboles son grafos. Grafos en los que para cada par de nodos solo existe un camino.
-V;131;36;bases-de-datos;072
-V;132;36;SQL;017
-V;133;36;NoSQL;060
-V;134;53;estadística-inferencial;070
-V;135;53;variable;En matemáticas y en lógica, una variable es un símbolo constituyente de un predicado, fórmula, algoritmo o de una proposición. El término «variable» se utiliza aun fuera del ámbito matemático para designar una cantidad susceptible de tomar distintos valores numéricos dentro de un conjunto de números especificado.
-V;136;53;predicción;Estimación de los valores futuros de una variable en base a ciertos criterios y contextos.
-V;137;53;muestra;Subconjunto de una población objeto de estudio de la estadística inferencial.
-V;138;53;estimación;Estimación de los valores de una variable en base a ciertos criterios y contextos.
-V;139;53;hipótesis;Enunciado no verificado, que se intenta confirmar o refutar. Si es confirmada, la hipótesis se denomina enunciado verificado. La hipótesis es una conjetura que requiere una contrastación con la experiencia. Para ella no son suficientes los argumentos persuasivos, por más elaborados que sean.
-V;140;53;varianza;La varianza es una medida de dispersión que representa la variabilidad de una serie de datos respecto a su media. Formalmente se calcula como la suma de los residuos al cuadrado divididos entre el total de observaciones. También se puede calcular como la desviación típica al cuadrado.
-V;141;53;correlación;En probabilidad y estadística, la correlación indica la fuerza y la dirección de una relación lineal y proporcionalidad entre dos variables estadísticas.
-V;142;53;pvalor;En estadística general y contrastes de hipótesis, el valor p se define como la probabilidad de que un valor estadístico calculado sea posible dada una hipótesis nula cierta. Cuanto más pequeño es el valor de p, más fiable es el resultado del estudio. Generalmente, el umbral de este valor se toma en 0,05.
-V;143;53;distribución-normal;En estadística y probabilidad se llama distribución normal, distribución de Gauss, distribución gaussiana o distribución de Laplace-Gauss, a una de las distribuciones de probabilidad de variable continua que con más frecuencia aparece en estadística y en la teoría de probabilidades. La gráfica de su función de densidad tiene una forma acampanada y es simétrica respecto de un determinado parámetro estadístico. Esta curva se conoce como campana de Gauss y es el gráfico de una función gaussiana. La importancia de esta distribución radica en que permite modelar numerosos fenómenos naturales, sociales y psicológicos. Mientras que los mecanismos que subyacen a gran parte de este tipo de fenómenos son desconocidos, por la enorme cantidad de variables incontrolables que en ellos intervienen, el uso del modelo normal puede justificarse asumiendo que cada observación se obtiene como la suma de unas pocas causas independientes.
-V;144;40;Pentesting;103
-V;145;40;XSS;Una secuencia de comandos en sitios cruzados o Cross-site scripting es un tipo de vulnerabilidad informática o agujero de seguridad típico de las aplicaciones Web, que puede permitir a una tercera persona inyectar en páginas web visitadas por el usuario código JavaScript o en otro lenguaje similar.
-V;146;40;Inyección SQL;Ataque en el cual se explota la vulnerabilidad de un servicio mediante la ejecución de comandos SQL no esperados.
-V;147;40;Ataque informático;Explotación de un sistema a través de vulnerabilidades o engaños.
-V;148;40;Ataque DDoS;Ataque de denegación de servicio, en el cual se envían una gran cantidad de peticiones a una máquina con el fin de saturarla.
-V;149;40;Ingeniería social;Análisis del comportamiento humano para la extorsión de individuos a través de engaños.
-V;150;40;hacker;Persona capaz de introducirse en sistemas informáticos ajenos pero sin fines ilícitos.
-V;151;40;cracker;Persona capaz de introducirse en sistemas informáticos ajenos pero con fines ilícitos.
-V;152;40;Man-in-the-middle;Ataque en el cual un tercero obtiene acceso al mensaje enviado entre dos extremos.
-V;153;40;Phising;104
-V;154;49;OOP: Clase;Definiciones de las propiedades y comportamiento de un tipo de objeto concreto.
-V;155;49;OOP: Objeto;Instancia de una clase. Entidad provista de un conjunto de propiedades o atributos (datos) y de comportamiento o funcionalidad (métodos).
-V;156;49;OOP: Método;Algoritmo asociado a un objeto con capacidad de alterar el estado del mismo o de un sistema.
-V;157;49;OOP: Atributo;Características pertenecientes a una clase.
-V;158;49;OOP: Instancia;Se denomina instancia al resultado de referenciar una clase (plantilla) para la creación de un objeto.
-V;159;49;OOP: Constructor;Metodo que le da el estado inicial a una clase.
-V;160;49;OOP: Instancia;158
-V;161;49;OOP: Encapsulamiento;Propiedad que brinda la capacidad a un objeto de ocultar su estado, de manera que sus datos solo se puedan modificar por medio de las operaciones que ofrece.
-V;162;49;OOP: Herencia;Propiedad que permite crear una clase partiendo de lo definido en otra.
-F;163;49;Programación Orientada a Objetos;Paradigma de programación que usa objetos y sus interacciones para diseñar software, caracterizado por sus capacidades de herencia, modularidad, polimorfismo y encapsulamiento.
-V;164;38;algoritmo;039
-V;165;38;diagrama-de-flujo;021
-V;166;38;convención-de-programación;Buenas prácticas recogidas para servir como referencia a la comunidad que utiliza un lenguaje para hacer sus desarrollos.
+"obligatorio","id_dict","id_tarea","término","def_término"
+"V","001",11,"turing","Alan Turing fue un matemático considerado hoy en día como uno de los padres de la computación y precursor de la informática moderna. Es conocido por crear el concepto de ""máquina de turing"" que permite juzgar si la inteligencia de una máquina es equiparable a la de un ser humano."
+"V","002",11,"programación","Capacidad de gestionar tareas en el tiempo de manera sistemática. En el argot informático, hace refencia a la acción de escribir código en un lenguaje diseñado para que un ordenador ejecute una serie de instrucciones."
+"V","003",11,"inteligencia-artificial","Es la capacidad de una máquina de realizar tareas similares a las de un ser humano."
+"V","004",12,"transistor","Es un dispositivo electrónico capaz de regular el paso de corriente en base a un impulso externo."
+"V","005",12,"ley-de-moore","Ley que afirma que la cantidad de transistores que componen un microprocesador se duplica cada dos años."
+"V","006",12,"puertas-lógicas","Son dispositios electrónicos con lógica booleana integrada."
+"V","007",13,"periférico","Componentes externos de un ordenador como el teclado, el ratón y el monitor."
+"V","008",13,"arquitectura-von-neumann","Arquitectura de computadoras descrita en 1945 por el matemático y físico John Von Neumann. Los ordenadores que siguen esta arquitectura, almacenan los datos y las instrucciones del programa en la misma memoria."
+"V","009",13,"arquitectura-harvard","Arquitectura de computadoras usada en los años 50 por IBM. Los ordenadores que siguen esta arquitectura, almacenan los datos y las instrucciones del programa en memorias distintas."
+"V","010",13,"sistema-operativo","Conjunto de instrucciones que gestionan los recursos físicos y virtuales de un ordenador."
+"V","011",13,"software","Se refiere a conjuntos de instrucciones con un mismo propósito ubicados en un dispositivo de almacenamiento o memoria."
+"V","012",13,"hardware","Conjunto de componentes físicos que forman parte de un ordenador."
+"V","013",13,"raspberry-pi","Es un hardware popular por tener un precio muy competitivo y servir como un mini ordenador con grandes opciones de conectividad."
+"V","014",13,"arduino","Es un hardware popular por tener un precio muy competitivo y servir como un mini ordenador con grandes opciones de procesamiento de señales tanto analógicas como digitales."
+"V","015",14,"compilador","Software que traduce lenguaje de alto nivel en lenguaje máquina o uno intermedio."
+"V","016",14,"intérprete","Programa informático capaz de entender y procesar código generalmente de alto nivel."
+"V","017",14,"lenguaje-de-programación","Abstracción del lenguaje que permite gestionar los recursos que ofrece un ordenador."
+"V","018",14,"editor-de-código","Programa facilita la escritura de código."
+"V","019",14,"lenguaje-de-alto-nivel","Lenguaje de programación que permite la escritura de código con lógica y palabras aproximadas al lenguaje humano."
+"V","020",14,"lenguaje-de-máquina","Lenguaje compuesto por series de señales binarias procesables directamente por los componentes de un ordenador."
+"V","021",15,"python","Popular lenguaje de programación de alto nivel conocido por su gran abanico de librerías, como por ejemplo, las orientadas a IA."
+"V","022",15,"R","Popular lenguaje de programación de alto nivel orientado a investigación con fines estadísticos."
+"V","023",15,"Lisp","Uno de los primeros lenguajes de programación de alto nivel, conocido por basarse en el procesamiento de listas."
+"V","024",15,"Java","Popular lenguaje de programación de alto nivel conocido por su capacidad de ser integrado en distintas plataformas mediante la Java Virtual Machine."
+"V","025",15,"lenguaje-de-bajo-nivel","Lenguaje de programación utilizado en los componentes electrónicos que componen un ordenador, de dificil comprensión por el ser humano."
+"V","026",15,"lenguaje-compilado","Lenguaje que requiere un paso adicional antes de ser ejecutado, la compilación, que convierte el código que escrito a lenguaje de máquina."
+"V","027",15,"lenguaje-interpretado","Un lenguaje que es convertido a lenguaje de máquina a medida que es ejecutado."
+"V","028",16,"repositorio-de-control-de-versiones","Es un lugar en el que queda almacenado de manera sistemática los cambios por los que ha pasado un conjunto de archivos."
+"V","029",16,"github","Proveedor de servicios para la herramienta git, permitiendo utiliar sus servidores para gestionar control de versiones."
+"V","030",17,"lenguaje-de-programación","017"
+"V","031",17,"javascript","Lenguaje de programación interpretado, popular por su uso para el desarrollo depáginas web."
+"V","032",17,"python","021"
+"V","033",17,"php","Lenguaje de programación tan popular como odiado orientado a la gestión de servidores y al desarrollo web."
+"V","034",17,"Java","024"
+"V","035",17,"html","Lenguaje de marcado para la elaboración de páginas web."
+"V","036",17,"CSS","Lenguaje de diseño gráfico orientaod a la creación de páginas web."
+"V","037",17,"R","022"
+"V","038",17,"SQL","Significa ""Structured Query Language"", y es un lenguaje que permite la gestión de bases de datos."
+"V","039",21,"algoritmo","Secuencia de instrucciones aplicadas sobre un estado inicial para llegar a otro estado."
+"V","040",21,"Diagrama-de-flujo","Conjunto de reglas que regulan la ejecución de un algoritmo."
+"V","041",22,"ada-lovelace","Matemática y escritora británica nacida en 1815 a la que se le atribuye la creación del primer programa de ordenador."
+"V","042",22,"bucles","En programación, sucesión de un conjunto de instrucciones regida por una lógica."
+"V","043",22,"lenguaje-de-programación","017"
+"F","044",22,"programación-dinámica","método para reducir el tiempo de ejecución de un algoritmo mediante la utilización de subproblemas superpuestos y subestructuras óptimas."
+"V","045",23,"algoritmo-de-cifrado-simétrico","Tipo de algoritmo de cifrado que utiliza una clave previamente conocida por los dos extremos del canal de información."
+"V","046",23,"algoritmo-de-cifrado-asimétrico","Tipo de algoritmo de cifrado que utiliza una clave pública, mediante la cual se encripta la información, y otra privada, que desencripta esa información."
+"V","047",23,"funciones-en-programación","Unidades de abstracción lógicas que funcionan como una unidad de procesamiento. Generalmente en base a unos parámetros (input) ejecuta una serie de instrucciones (output)."
+"V","048",24,"convertidor-analógico-digital","Mecanismo que transforma señales continuas analógicas en señales discontinuas digitales (""0"", ""1""), mediante el uso de puertas lógicas."
+"V","049",24,"transistores-bipolares","012"
+"V","050",24,"frecuencia-de-muestreo","La tasa o frecuencia de muestreo es el número de muestras por unidad de tiempo que se toman de una señal continua para producir una señal discreta, durante el proceso necesario para convertirla de analógica en digital."
+"V","051",24,"sistema-binario","Lenguaje compuesto por unos y ceros utilizado en la programación de lenguaje máquina en ordenadores."
+"V","052",24,"algebrabooleana","Planteamiento lógico basado en el sistema binario y en el uso de operadores que producen un output en base a distintos inputs."
+"V","053",25,"arquitectura-cliente-servidor","Sistema por el cual se establece la comunicación entre distintos ordenadores, en el cual el cliente realiza una petición de información y el servidor responde con información relacionada con la petición."
+"V","054",25,"FTP ","Protocolo de comunicación de red diseñado para la transferencia de archivos entre ordenadores."
+"V","055",25,"servidor-web","Extremo de comunicación en la arquitectura Cliente-Servidor que se encarga de de gestionar y servir peticiones al cliente."
+"V","056",25,"IP","Dirección que identifica de manera lógica y univoca una interfaz de red."
+"V","057",25,"DNS","Servidor web que agrupa los nombres de los dominios y sus correspondientes IPs para facilitar la conexión de los clientes a los servidores."
+"V","058",25,"protocolo-TCP/IP","Conjunto de protocolos que permiten la comunicación entre los ordenadores pertenecientes a una red."
+"F","059",25,"bbdd-relacional","Base de datos que se basa en el almacenamiento de datos relacionados mediante identificadores. El uso de un esquema fijo le da gran robustez."
+"F","060",25,"bbdd-no-relacional","Base de datos que se basa en el almacenamiento de datos en documentos. Evitar usar un esquema fijo, permite que estas bases de datos crezcan y se gestionen más fácilmente."
+"F","061",25,"MEAN","Stack compuesto por: MongoDB, Express, AngularJS y NodeJS"
+"F","062",25,"LAMP","Stack compuesto por: Linux, ApacheServer, MySQL y PHP"
+"V","063",33,"diagrama-de-flujo","021"
+"V","064",33,"bucles-en-programación","022"
+"V","065",46,"estadística-descriptiva","Parte de la estadística dedicada a la organización, reunión y comunicación de información relacionada con un conjunto de datos."
+"V","066",46,"análisis-exploratorio","El análisis exploratorio de datos se refiere al proceso crítico de realizar investigaciones iniciales sobre los datos para descubrir patrones, detectar anomalías, probar hipótesis y verificar supuestos con ayuda de la estadística y representaciones gráficas."
+"V","067",46,"dato-estructurado","Datos organizados por registros en filas y dimensiones, atributos, o variablaes en columnas, de manera ordenada."
+"V","068",46,"dato-semiestructurado","Datos que tienen características asociadas ordenables, pero que requieren un leve procesamiento para consolidarlos en una base de datos."
+"V","069",46,"dato-noestructurado","Datos sin homogeneizar que a priori no comparten atributos por los cuales clasificarlos en un estudio consolidado."
+"F","070",46,"estadística-inferencial","Parte de la estadística dedicada a la elaboración de conclusiones en base al estudio de un subconjunto denominado ""muestra"" de una población."
+"V","071",31,"ETL","Extacción Transformación y Carga. Proceso que abarca la colección de datos de distintas fuentes, su transformación de cara a un objetivo y su almacenamiento para su posterior aprovechamiento."
+"V","072",31,"bases-de-datos","Software dedicado al almacenamiento de grandes cantidades de datos, permitiendo su consulta posterior mediante instrucciones estructuradas."
+"V","073",31,"data-preprocessing","Parte del ciclo de vida del dato en el cual se prepara un conjunto de datos para su explotación."
+"V","074",34,"API","Application Programming Interface. Interfaz preparada para la explotación de un desarrollo por terceros."
+"V","075",34,"JSON","Formato de texto sencillo para el almacenamiento de datos ordenados."
+"V","076",34,"XML","Formato de texto que permite el almacenamiento de datos mediante lenguaje de marcas."
+"V","077",34,"protocolo-de-comunicación","Método que permite la comunicación entre dos extremos, siguiendo una lógica fijado por estándar."
+"F","078",34,"REST","Representational State Transfer."
+"V","079",43,"SQL","017"
+"V","080",43,"bases-de-datos-relacionales","025"
+"V","081",43,"MySQL","MySQL es un sistema de gestión de bases de datos relacional considerada como la base de datos de código abierto más popular del mundo"
+"V","082",43,"postgreSQL","Sistema de gestión de bases de datos relacionales (RDMS) de código libre."
+"V","083",43,"MongoDB","Sistema de base de datos NoSQL, orientado a documentos y de código abierto que en lugar de guardar los datos en tablas, tal y como se hace en las bases de datos relacionales, guarda estructuras de datos BSON esquema dinámico, haciendo que la integración de los datos en ciertas aplicaciones sea más fácil y rápida."
+"V","084",26,"herramientas-de-Business-Intelligence","Elemento auxiliar para la explotación y el análisis de datos."
+"V","085",26,"calidad-del-dato","Termino usado para definir la explotabilidad de un conjunto ed datos, en la cual influyen su homogeneidad, comparabilidad, formato y estructura."
+"V","086",26,"análisis-exploratorio","046"
+"V","087",26,"estadística-descriptiva","026"
+"V","088",26,"histograma","Representación gráfica de una variable en forma de barras, donde la superficie de cada barra es proporcional a la frecuencia de los valores representados."
+"V","089",26,"gráfico-de-barras","Gráfico bidimensional que muestra observaciones en barras que parten desde uno de los ejes."
+"V","090",26,"gráfico-circular","Gráfico que muestra en un círculo partes de un conjunto por su peso en el mismo."
+"V","091",26,"gráfico-de-dispersión","Gráfico bidimensional que muestra en un punto cada observación en un conjunto de datos según las dimensiones establecidas."
+"V","092",26,"gráfico-de-caja-y-bigotes","Gráfico que muestra de manera resumida la distribución (Q1, Q3, mediana, extremos y valores atípicos) seguida por varios conjuntos de datos sobre una misma variable."
+"V","093",26,"cartograma","Gráfico o diagrama que muestra catacterísticas de un área geográfica de manera ordenada."
+"V","094",51,"Sistema-Operativo","051"
+"V","095",51,"Linux","GNU/Linux es la denominación técnica y generalizada que reciben una serie de sistemas operativos de tipo Unix, que también suelen ser de código abierto, multiplataforma, multiusuario y multitarea"
+"V","096",51,"CPU","Unidad central de procesamiento. Hardware considerado como el núcleo de un ordenador, posibilita el procesamiento lógico de instrucciones."
+"V","097",51,"GPU","Unidad de procesamiento de gráficos, especializada en el cálculo de operaciones de coma flotante."
+"V","098",51,"Periférico","013"
+"V","099",51,"Terminal","Dispositivo informático que puede estar conectado a una red."
+"V","100",51,"Interfaz","Elemento entre el humano y la máquina que facilita su interacción."
+"V","101",54,"pentesting","Proceso de exploración de vulnerabilidades de un sistema mediante la simulación de ataques dirigidos."
+"V","102",54,"ciberseguridad","Campo de la informática que estudia la vulnerabilidad de sistemas informáticos."
+"V","103",54,"ransomware","Software diseñado con el fin de restringir la accesibilidad de un individuo a servicios informáticos o información almacenada en ellos, posibilitando el chantaje del atacante a la víctima para su recuperación."
+"V","104",54,"phising","Ataque caracterizado por la suplantación de identidad, ganándose la confianza de la víctima para efectuar un robo de credenciales, datos, dinero, etc."
+"V","105",54,"spyware","El programa espía es un malware que recopila información de una computadora y después transmite esta información a una entidad externa sin el conocimiento o el consentimiento del propietario del computador."
+"V","106",54,"troyano","Ataque caracterizado por la intrusión de un atacante en un sistema mediante un software aparentemente legítimo."
+"V","107",37,"dirección-IP","Secuencia de 32 bits que define un dispositivo en una red. Toda IP pertenece a un conjunto definido por una máscara."
+"V","108",37,"internet","Conjunto de dispositivos interconectados entre sí en una red a escala mundial, que permiten el tráfico controlado de información entre ellos."
+"V","109",37,"red-WAN","Red de dispositivos conectada por cable."
+"V","110",37,"red-LAN","Red de dispositivos conectada inalámbricamente."
+"V","111",37,"máscara-de-subred","Representación de la fragmentación de una red, analoga al CIDR, que presenta mejoras de procesamiento sobre este."
+"V","112",37,"router ","Dispositivo de red que permite la comunicación de redes informáticas entre sí, dirigiendo paquetes de datos entre un origen y un destinatario."
+"V","113",37,"switch","Dispositivo de red que permite la comunicación de dispositivos, pero únicamente dentro de la misma red, bajo la misma ip pública."
+"V","114",37,"TCP-IP","Transfer Control Protocol. Protocolo…"
+"V","115",37,"IP-pública","Se refiere a la dirección lógica de un dispositivo en internet, de tal manera que otros dispositivos puedan llegar a él."
+"V","116",37,"IP-privada","Se refiere a la dirección lógica de un dispositivo en una red local, de tal manera los dispositivos de una red local sean identificados y accesibles por otros dispositivos."
+"V","117",41,"expresiones-regulares","Reglas definidas en una cadena de caracteres que fijan la lógica de búsqueda de elementos en otra cadena de caracteres."
+"V","118",41,"scrapping","Extracción de datos de páginas web para su posterior análisis o procesamiento."
+"V","119",41,"procesamiento-del-lenguaje-natural","El Procesamiento del Lenguaje Natural es el campo de conocimiento de la Inteligencia Artificial que se ocupa de la investigar la manera de comunicar las máquinas con las personas mediante el uso de lenguas naturales, como el español, el inglés o el chino."
+"V","120",41,"crawling","Exploración recursiva en una página web a través de sus hipervínculos."
+"F","121",41,"parsing","Procesado de una cadena de caracteres siguiene una lógica prefijada."
+"V","122",55,"línea-de-comandos","Software destinado a la interacción humano-máquina que nos permite ejecutar comandos mediante únicamente el teclado en el sistema operativo."
+"V","123",55,"consola",122
+"V","124",52,"estructura-de-datos","Forma en la cual se guarda y estructura la información"
+"V","125",52,"array","Estructura de datos almacenados de manera contigua en la memoria física. Como ventaja, el acceso a cualquiera de los elementos se hace en el mismo intervalo de tiempo, pero puede ser difícil de ubicar en memoria."
+"V","126",52,"lista-enlazada","Estructura de datos almacenados de manera desordenada en la memoria física. Como ventaja, es fácilmente ubicado en memoria, pero el tiempo de acceso crece según la posición del elemento en la lista, ya que habría que recorrer todos los elementos que la componen hasta llegar a él."
+"V","127",52,"grafo","Estructura de datos idónea para representar relaciones entre entidades."
+"V","128",52,"colas","Estructura de datos FIFO, el primero que entra es el primero que sale."
+"V","129",52,"pilas","Estructura de datos LIFO, el último que entra es el primero que sale."
+"V","130",52,"árboles","Estructura de datos idónea para la búsqueda. Todos los grafos son árboles, pero no todos los árboles son grafos. Grafos en los que para cada par de nodos solo existe un camino."
+"V","131",36,"bases-de-datos","072"
+"V","132",36,"SQL","017"
+"V","133",36,"NoSQL","060"
+"V","134",53,"estadística-inferencial","070"
+"V","135",53,"variable","En matemáticas y en lógica, una variable es un símbolo constituyente de un predicado, fórmula, algoritmo o de una proposición. El término «variable» se utiliza aun fuera del ámbito matemático para designar una cantidad susceptible de tomar distintos valores numéricos dentro de un conjunto de números especificado."
+"V","136",53,"predicción","Estimación de los valores futuros de una variable en base a ciertos criterios y contextos."
+"V","137",53,"muestra","Subconjunto de una población objeto de estudio de la estadística inferencial."
+"V","138",53,"estimación","Estimación de los valores de una variable en base a ciertos criterios y contextos."
+"V","139",53,"hipótesis","Enunciado no verificado, que se intenta confirmar o refutar. Si es confirmada, la hipótesis se denomina enunciado verificado. La hipótesis es una conjetura que requiere una contrastación con la experiencia. Para ella no son suficientes los argumentos persuasivos, por más elaborados que sean."
+"V","140",53,"varianza","La varianza es una medida de dispersión que representa la variabilidad de una serie de datos respecto a su media. Formalmente se calcula como la suma de los residuos al cuadrado divididos entre el total de observaciones. También se puede calcular como la desviación típica al cuadrado."
+"V","141",53,"correlación","En probabilidad y estadística, la correlación indica la fuerza y la dirección de una relación lineal y proporcionalidad entre dos variables estadísticas."
+"V","142",53,"pvalor","En estadística general y contrastes de hipótesis, el valor p se define como la probabilidad de que un valor estadístico calculado sea posible dada una hipótesis nula cierta. Cuanto más pequeño es el valor de p, más fiable es el resultado del estudio. Generalmente, el umbral de este valor se toma en 0,05."
+"V","143",53,"distribución-normal","En estadística y probabilidad se llama distribución normal, distribución de Gauss, distribución gaussiana o distribución de Laplace-Gauss, a una de las distribuciones de probabilidad de variable continua que con más frecuencia aparece en estadística y en la teoría de probabilidades. La gráfica de su función de densidad tiene una forma acampanada y es simétrica respecto de un determinado parámetro estadístico. Esta curva se conoce como campana de Gauss y es el gráfico de una función gaussiana. La importancia de esta distribución radica en que permite modelar numerosos fenómenos naturales, sociales y psicológicos. Mientras que los mecanismos que subyacen a gran parte de este tipo de fenómenos son desconocidos, por la enorme cantidad de variables incontrolables que en ellos intervienen, el uso del modelo normal puede justificarse asumiendo que cada observación se obtiene como la suma de unas pocas causas independientes."
+"V","144",40,"Pentesting",103
+"V","145",40,"XSS","Una secuencia de comandos en sitios cruzados o Cross-site scripting es un tipo de vulnerabilidad informática o agujero de seguridad típico de las aplicaciones Web, que puede permitir a una tercera persona inyectar en páginas web visitadas por el usuario código JavaScript o en otro lenguaje similar."
+"V","146",40,"Inyección SQL","Ataque en el cual se explota la vulnerabilidad de un servicio mediante la ejecución de comandos SQL no esperados."
+"V","147",40,"Ataque informático","Explotación de un sistema a través de vulnerabilidades o engaños."
+"V","148",40,"Ataque DDoS","Ataque de denegación de servicio, en el cual se envían una gran cantidad de peticiones a una máquina con el fin de saturarla."
+"V","149",40,"Ingeniería social","Análisis del comportamiento humano para la extorsión de individuos a través de engaños."
+"V","150",40,"hacker","Persona capaz de introducirse en sistemas informáticos ajenos pero sin fines ilícitos."
+"V","151",40,"cracker","Persona capaz de introducirse en sistemas informáticos ajenos pero con fines ilícitos."
+"V","152",40,"Man-in-the-middle","Ataque en el cual un tercero obtiene acceso al mensaje enviado entre dos extremos."
+"V","153",40,"Phising",104
+"V","154",49,"OOP: Clase","Definiciones de las propiedades y comportamiento de un tipo de objeto concreto."
+"V","155",49,"OOP: Objeto","Instancia de una clase. Entidad provista de un conjunto de propiedades o atributos (datos) y de comportamiento o funcionalidad (métodos)."
+"V","156",49,"OOP: Método","Algoritmo asociado a un objeto con capacidad de alterar el estado del mismo o de un sistema."
+"V","157",49,"OOP: Atributo","Características pertenecientes a una clase."
+"V","158",49,"OOP: Instancia","Se denomina instancia al resultado de referenciar una clase (plantilla) para la creación de un objeto."
+"V","159",49,"OOP: Constructor","Metodo que le da el estado inicial a una clase."
+"V","160",49,"OOP: Instancia","158"
+"V","161",49,"OOP: Encapsulamiento","Propiedad que brinda la capacidad a un objeto de ocultar su estado, de manera que sus datos solo se puedan modificar por medio de las operaciones que ofrece."
+"V","162",49,"OOP: Herencia","Propiedad que permite crear una clase partiendo de lo definido en otra."
+"F","163",49,"Programación Orientada a Objetos","Paradigma de programación que usa objetos y sus interacciones para diseñar software, caracterizado por sus capacidades de herencia, modularidad, polimorfismo y encapsulamiento."
+"V","164",38,"algoritmo","039"
+"V","165",38,"diagrama-de-flujo","021"
+"V","166",38,"convención-de-programación","Buenas prácticas recogidas para servir como referencia a la comunidad que utiliza un lenguaje para hacer sus desarrollos."
+"V","167",45,"búsqueda-secuencial ","Búsqueda en la cual se recorre una lista de elemento a elemento hasta llegar al valor buscado. No es muy eficiente."
+"V","168",45,"búsqueda-binaria ","Búsqueda en la cual se parte de un conjunto de datos ordenados. La búsqueda se efectúa comparando el valor buscado con el valor central del conjunto de búsqueda de manera iterativa, permitiendo descartar elementos y operar de manera eficiente."
+"V","169",45,"notación-Big-O","Convenio de escritura que representa la complejidad de un algoritmo a medida que crece el objeto a analizar."

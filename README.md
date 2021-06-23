@@ -25,6 +25,7 @@ Mi trabajo en la escuela de IA semipresencial y sin profesores "TheEgg"
 * [tarea_40: La seguridad es importante](tarea_40)
 * [tarea_41: Tu primera expresión regular](tarea_41)
 * [tarea_43: Aprendamos un poco de SQL](tarea_43)
+* [tarea_45: Algoritmos de búsqueda](tarea_45)
 * [tarea_46: Estadística descriptiva para novatos](tarea_46)
 * [tarea_49: Aprender a pensar como un programador: Introducción a la POO](tarea_49)
 * [tarea_51: Los sistemas operativos](tarea_51)
