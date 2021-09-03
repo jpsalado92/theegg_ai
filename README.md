@@ -27,6 +27,7 @@ Mi trabajo en la escuela de IA semipresencial y sin profesores "TheEgg"
 * [tarea_41: Tu primera expresión regular](tarea_41)
 * [tarea_42: HTML5, la revolución de los navegadores](tarea_42)
 * [tarea_43: Aprendamos un poco de SQL](tarea_43)
+* [tarea_44: Análisis del rendimiento de las aplicaciones de IA](tarea_44)
 * [tarea_45: Algoritmos de búsqueda](tarea_45)
 * [tarea_46: Estadística descriptiva para novatos](tarea_46)
 * [tarea_49: Aprender a pensar como un programador: Introducción a la POO](tarea_49)

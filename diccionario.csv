@@ -178,3 +178,8 @@
 "V","177",42,"interfaz","Zona de comunicación o acción de un sistema sobre otro."
 "V","178",39,"redes-informáticas","Una red informática consiste en varios dispositivos electrónicos conectados entre sí para intercambiar y compartir información y recursos. Podríamos decir, por tanto, que son sistemas de comunicación en los que distintos dispositivos actúan de emisor y de receptor de manera alterna."
 "V","179",39,"internet","108"
+"V","180",44,"Notación-asintótica","Las notaciones asintóticas son lenguajes que nos permitan analizar el tiempo de ejecución de un algoritmo identificando su comportamiento si el tamaño de entrada para el algoritmo aumenta."
+"V","181",44,"Notación-Big-Omicron (O)","La notación Big-O representa el límite superior del tiempo de ejecución de un algoritmo. Por lo tanto, proporciona la complejidad del peor de los casos de un algoritmo."
+"V","182",44,"Algoritmos-de-ordenación","En computación y matemáticas un algoritmo de ordenamiento es un algoritmo que pone elementos de una lista o un vector en una secuencia dada por una relación de orden, es decir, el resultado de salida ha de ser una permutación —o reordenamiento— de la entrada que satisfaga la relación de orden dada."
+"F","183",44,"Notación-Big-Omega (Ω)","La notación Omega representa el límite inferior del tiempo de ejecución de un algoritmo. Por lo tanto, representa la complejidad del mejor caso."
+"F","184",44,"Notación-Big-Theta (Θ)","Se utiliza para analizar la complejidad de caso promedio de un algoritmo."
