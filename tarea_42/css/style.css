@@ -1,0 +1,28 @@
+* {
+    font-family: arial;
+}
+
+* {
+    text-align: center;
+    unicode-bidi: bidi-override;
+}
+
+body {
+    background-color: #F2F2F2;
+}
+
+h1 {
+    color: white;
+    font-weight: normal;
+    background-color: #008962;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h2 {
+    color: white;
+    font-weight: normal;
+    background-color: #f29239;
+    margin-top: 0;
+    margin-bottom: 0;
+}
